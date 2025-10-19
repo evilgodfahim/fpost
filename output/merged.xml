@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 19 Oct 2025 10:24:35 GMT</lastBuildDate>
+<lastBuildDate>Sun, 19 Oct 2025 10:41:24 GMT</lastBuildDate>
 <item>
 <title><![CDATA[History Today: When Wall Street witnessed 'Black Monday', its biggest ever crash]]></title>
 <link>https://www.firstpost.com/explainers/history-today-october-19-events-black-monday-wall-street-crash-13942428.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India and Mongolia: Spiritual partners in temporal world]]></title>
+<link>https://www.firstpost.com/opinion/india-mongolia-strategic-spiritual-partnership-13943398.html</link>
+<pubDate>Sun, 19 Oct 2025 10:41:24 -0000</pubDate>
+<description><![CDATA[The world is confronting new hegemonic challenges, where both nations share a common interest in peace and a multipolar global order]]></description>
+</item>
+<item>
 <title><![CDATA[Beaten in Op Sindoor, JeM forms women’s brigade to target India]]></title>
 <link>https://www.firstpost.com/opinion/beaten-in-op-sindoor-jem-forms-womens-brigade-to-target-india-13943148.html</link>
 <pubDate>Sun, 19 Oct 2025 08:28:47 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/building-the-arsenal-of-trust-india-uk-reset-the-rules-of-strategic-cooperation-13943194.html</link>
 <pubDate>Sat, 18 Oct 2025 11:18:44 -0000</pubDate>
 <description><![CDATA[India–UK defence synergy stands out as both model and mandate for purposeful, adaptive cooperation]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Pakistan gamble should alarm India, Afghanistan]]></title>
-<link>https://www.firstpost.com/opinion/trump-pakistan-gamble-terror-afghanistan-india-13942978.html</link>
-<pubDate>Fri, 17 Oct 2025 20:20:45 -0000</pubDate>
-<description><![CDATA[The US silence, as the ISI funds and shelters IS-KP members in Balochistan and builds centres for the LeT, JeM and Hizbul in Khyber Pakhtunkhwa, is nothing but complicity in Pakistan’s sinister designs]]></description>
 </item>
 </channel></rss>
