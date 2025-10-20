@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 20 Oct 2025 07:13:36 GMT</lastBuildDate>
+<lastBuildDate>Mon, 20 Oct 2025 08:17:50 GMT</lastBuildDate>
 <item>
 <title><![CDATA[How did firecrackers become part of Diwali celebrations?]]></title>
 <link>https://www.firstpost.com/explainers/diwali-firecrackers-history-celebrations-13942695.html</link>
@@ -41,10 +41,22 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Sutra | Trump handling: How to tackle India’s foreign policy challenge]]></title>
+<link>https://www.firstpost.com/opinion/india-trump-foreign-policy-challenge-13943530.html</link>
+<pubDate>Mon, 20 Oct 2025 08:03:53 -0000</pubDate>
+<description><![CDATA[With Shehbaz Sharif’s flattery falling flat and with China’s squeeze on rare earths, India has a new opening]]></description>
+</item>
+<item>
 <title><![CDATA[Ceasefire without architecture: Why Gaza’s peace cannot hold]]></title>
 <link>https://www.firstpost.com/opinion/gaza-ceasefire-fragile-peace-no-architecture-13943533.html</link>
 <pubDate>Mon, 20 Oct 2025 05:51:00 -0000</pubDate>
 <description><![CDATA[The Gaza ceasefire offers calm but no compass. Without enforcement, leadership renewal, or political vision, it remains a ceasefire without architecture — not a path to peace]]></description>
+</item>
+<item>
+<title><![CDATA[Why many Sikhs visit Gwalior on Diwali]]></title>
+<link>https://www.firstpost.com/opinion/gwalior-diwali-sikh-bandi-chorr-diwas-13943578.html</link>
+<pubDate>Mon, 20 Oct 2025 07:48:53 -0000</pubDate>
+<description><![CDATA[On Diwali day, when Guru Hargobind walked out to freedom, each of the imprisoned kings held one hem and walked behind him, thus creating a mass Bandi Chorr Diwas which is commemorated till today across gurudwaras]]></description>
 </item>
 <item>
 <title><![CDATA[Lahore protests, rise of Tehreek-e-Labbaik reveal Pakistan’s deeper malaise]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/gen-z-protests-and-regime-change-in-indian-ocean-neighbourhood-13943426.html</link>
 <pubDate>Sun, 19 Oct 2025 11:51:26 -0000</pubDate>
 <description><![CDATA[It is not about the size of the nations or their populations, but about a triggering issue that could bring the people to the streets]]></description>
-</item>
-<item>
-<title><![CDATA[India and Mongolia: Spiritual partners in temporal world]]></title>
-<link>https://www.firstpost.com/opinion/india-mongolia-strategic-spiritual-partnership-13943398.html</link>
-<pubDate>Sun, 19 Oct 2025 10:41:24 -0000</pubDate>
-<description><![CDATA[The world is confronting new hegemonic challenges, where both nations share a common interest in peace and a multipolar global order]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh must be saved from becoming the very Pakistan it broke away from]]></title>
-<link>https://www.firstpost.com/opinion/bangladesh-secularism-under-threat-pakistan-style-religious-politics-13943217.html</link>
-<pubDate>Sat, 18 Oct 2025 13:25:35 -0000</pubDate>
-<description><![CDATA[Bangladesh today stands at a defining moment—caught between the rise of Pakistan-style religious politics and a weakened democratic order]]></description>
 </item>
 </channel></rss>
