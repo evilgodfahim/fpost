@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 22 Oct 2025 11:11:28 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Oct 2025 12:26:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Pakistan's terror group Jaish launches online ‘jihadi’ course for women. What we know so far]]></title>
+<link>https://www.firstpost.com/explainers/jaish-e-mohammed-launches-jihadi-course-women-unit-13944072.html</link>
+<pubDate>Wed, 22 Oct 2025 12:07:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Saudi ends ‘modern slavery’ with kafala system. Why it’s significant for Indian workers]]></title>
 <link>https://www.firstpost.com/explainers/saudi-arabia-kafala-system-migrant-workers-indians-13944113.html</link>
@@ -35,10 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[The story of ‘cursed’ diamond left behind in Louvre heist and its India connection]]></title>
-<link>https://www.firstpost.com/explainers/louvre-museum-heist-cursed-regent-diamond-india-connection-13944030.html</link>
-<pubDate>Wed, 22 Oct 2025 07:42:44 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Why Deoband should be kept away from India-Taliban engagement]]></title>
+<link>https://www.firstpost.com/opinion/why-deoband-should-be-kept-away-from-india-taliban-engagement-13944131.html</link>
+<pubDate>Wed, 22 Oct 2025 10:12:13 -0000</pubDate>
+<description><![CDATA[The government, with its diplomatic and intelligence apparatus, is competent enough to engage with the Taliban; engaging Deoband will add unnecessary complexities.]]></description>
+</item>
+<item>
+<title><![CDATA[Pakistan army chief Munir’s existential threat]]></title>
+<link>https://www.firstpost.com/opinion/pakistan-army-chief-munirs-existential-threat-13944089.html</link>
+<pubDate>Wed, 22 Oct 2025 11:14:15 -0000</pubDate>
+<description><![CDATA[Much of Munir’s anger against India stems from the realisation that Pakistan is rapidly falling behind India economically, militarily and geopolitically]]></description>
 </item>
 <item>
 <title><![CDATA[Who pulled off the Louvre crown jewel heist?]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/gaza-ceasefire-collapse-trump-peace-plan-13943855.html</link>
 <pubDate>Tue, 21 Oct 2025 11:57:43 -0000</pubDate>
 <description><![CDATA[Fear and panic are again dominating the scene among people in Gaza after Israel’s military launched more than 20 airstrikes]]></description>
-</item>
-<item>
-<title><![CDATA[How India–Canada quietly steer through Trumpian storm]]></title>
-<link>https://www.firstpost.com/opinion/india-canada-reset-trump-factor-diplomacy-13943786.html</link>
-<pubDate>Tue, 21 Oct 2025 09:52:54 -0000</pubDate>
-<description><![CDATA[The departure of Justin Trudeau as Canadian prime minister and the return of Donald Trump as US president prompted Canada to accelerate its search for allies in Europe and Asia—making a renewed focus on ties with India both strategic and inevitable]]></description>
-</item>
-<item>
-<title><![CDATA[Why Deoband should be kept away from India-Taliban engagement]]></title>
-<link>https://www.firstpost.com/opinion/why-deoband-should-be-kept-away-from-india-taliban-engagement-13944131.html</link>
-<pubDate>Wed, 22 Oct 2025 10:12:13 -0000</pubDate>
-<description><![CDATA[The government, with its diplomatic and intelligence apparatus, is competent enough to engage with the Taliban; engaging Deoband will add unnecessary complexities.]]></description>
 </item>
 </channel></rss>
