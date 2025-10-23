@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Thu, 23 Oct 2025 10:14:13 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Oct 2025 11:11:16 GMT</lastBuildDate>
 <item>
 <title><![CDATA[India wants to clamp down on AI content. How are other countries going about it?]]></title>
 <link>https://www.firstpost.com/explainers/india-wants-to-clamp-down-on-ai-content-how-are-other-countries-going-about-it-13944411.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[China’s influence operations and coercive diplomacy: India’s response offers a blueprint for democracies]]></title>
+<link>https://www.firstpost.com/opinion/chinas-influence-operations-and-coercive-diplomacy-indias-response-offers-a-blueprint-for-democracies-13944400.html</link>
+<pubDate>Thu, 23 Oct 2025 08:15:50 -0000</pubDate>
+<description><![CDATA[China’s influence operations and coercive diplomacy, as evidenced by actions in the United States, Britain, Canada, Japan, the Philippines and India, represent a systemic challenge to the international order]]></description>
+</item>
+<item>
 <title><![CDATA[How Trump’s sanctions and tariffs have redrawn the world map—and put Eurasia at the centre]]></title>
 <link>https://www.firstpost.com/opinion/how-trumps-sanctions-and-tariffs-have-redrawn-the-world-map-and-put-eurasia-at-the-centre-13944386.html</link>
 <pubDate>Thu, 23 Oct 2025 09:41:07 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/pakistan-army-chief-munirs-existential-threat-13944089.html</link>
 <pubDate>Wed, 22 Oct 2025 11:14:15 -0000</pubDate>
 <description><![CDATA[Much of Munir’s anger against India stems from the realisation that Pakistan is rapidly falling behind India economically, militarily and geopolitically]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh on the brink: How the Yunus regime’s Islamist purge threatens the military]]></title>
-<link>https://www.firstpost.com/opinion/bangladesh-on-the-brink-how-the-yunus-regimes-islamist-purge-threatens-the-military-13944426.html</link>
-<pubDate>Thu, 23 Oct 2025 09:26:07 -0000</pubDate>
-<description><![CDATA[Unless Bangladesh’s democratic and security institutions are defended, the world may soon confront a new Islamist axis anchored in Dhaka, destabilising the entire Indo-Pacific theatre.]]></description>
 </item>
 </channel></rss>
