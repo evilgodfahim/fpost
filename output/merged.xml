@@ -3,7 +3,25 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 11:11:11 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 12:25:51 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Anti-Trump protesters are wearing inflatable frog costumes. Here's why]]></title>
+<link>https://www.firstpost.com/explainers/trump-acitvists-inflatable-frog-costumes-reason-13944770.html</link>
+<pubDate>Fri, 24 Oct 2025 12:04:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Why 25-year-old is suing Pakistan over ‘period tax’]]></title>
+<link>https://www.firstpost.com/explainers/why-25-year-old-is-suing-pakistan-over-period-tax-13944757.html</link>
+<pubDate>Fri, 24 Oct 2025 11:49:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Poop cameras are the new health fad. Are they simply a waste?]]></title>
+<link>https://www.firstpost.com/health/kohler-smart-toilet-dekoda-waste-anlaysis-13944674.html</link>
+<pubDate>Fri, 24 Oct 2025 11:34:40 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Why Trump’s ballroom in the White House is unlike any other renovation by US presidents]]></title>
 <link>https://www.firstpost.com/explainers/trump-ballroom-east-wing-white-house-renovation-history-us-presidents-13944726.html</link>
@@ -23,24 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Did US fly B-1 bombers near Venezuela?]]></title>
-<link>https://www.firstpost.com/explainers/did-us-fly-b-1-bombers-near-venezuela-13944672.html</link>
-<pubDate>Fri, 24 Oct 2025 08:52:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Andhra bus fire: What caused the deadly blaze that killed 20 passengers?]]></title>
-<link>https://www.firstpost.com/explainers/what-caused-andhra-pradesh-bus-fire-kurnool-13944587.html</link>
-<pubDate>Fri, 24 Oct 2025 08:37:48 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How Piyush Pandey gave India its most famous political slogan, ‘Ab ki baar, Modi sarkar’]]></title>
-<link>https://www.firstpost.com/explainers/piyush-pandey-death-ab-ki-baar-modi-sarkar-political-slogan-13944608.html</link>
-<pubDate>Fri, 24 Oct 2025 07:50:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[West still clings to intellectual colonialism while Indians face scholastic apartheid]]></title>
 <link>https://www.firstpost.com/opinion/west-still-clings-to-intellectual-colonialism-while-indians-face-scholastic-apartheid-13944598.html</link>
 <pubDate>Fri, 24 Oct 2025 08:47:48 -0000</pubDate>
@@ -51,6 +51,12 @@
 <link>https://www.firstpost.com/opinion/qatar-smart-power-doha-diplomacy-13944639.html</link>
 <pubDate>Fri, 24 Oct 2025 07:46:09 -0000</pubDate>
 <description><![CDATA[The ability to talk to both sides is Doha’s rarest currency. If any Arab state can help reduce the reflexive hostility between Tehran and the Arab world, it is Qatar]]></description>
+</item>
+<item>
+<title><![CDATA[How Yunus’s regime has driven Bangladeshi Army towards internal rift and radicalisation]]></title>
+<link>https://www.firstpost.com/opinion/yunus-bangladesh-army-rift-and-radicalisation-13944768.html</link>
+<pubDate>Fri, 24 Oct 2025 12:09:19 -0000</pubDate>
+<description><![CDATA[Under Muhammad Yunus’s weak and misguided interim rule, the once-disciplined Bangladesh Army now stands divided, torn between secular patriots, political opportunists, and Islamist sympathisers]]></description>
 </item>
 <item>
 <title><![CDATA[India isn’t heading for revolution, it’s redefining democracy]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/chinas-influence-operations-and-coercive-diplomacy-indias-response-offers-a-blueprint-for-democracies-13944400.html</link>
 <pubDate>Thu, 23 Oct 2025 08:15:50 -0000</pubDate>
 <description><![CDATA[China’s influence operations and coercive diplomacy, as evidenced by actions in the United States, Britain, Canada, Japan, the Philippines and India, represent a systemic challenge to the international order]]></description>
-</item>
-<item>
-<title><![CDATA[How Trump’s sanctions and tariffs have redrawn the world map—and put Eurasia at the centre]]></title>
-<link>https://www.firstpost.com/opinion/how-trumps-sanctions-and-tariffs-have-redrawn-the-world-map-and-put-eurasia-at-the-centre-13944386.html</link>
-<pubDate>Thu, 23 Oct 2025 09:41:07 -0000</pubDate>
-<description><![CDATA[The global oil market is no longer just about barrels and prices; it is about currencies, alliances and power.]]></description>
 </item>
 </channel></rss>
