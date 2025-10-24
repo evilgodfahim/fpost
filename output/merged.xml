@@ -3,11 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 06:18:33 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 07:13:01 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Tomato prices soar 400%: How shutting down of Afghanistan border is hurting Pakistan]]></title>
 <link>https://www.firstpost.com/explainers/tomato-prices-soar-400-how-shutting-down-of-afghanistan-border-is-hurting-pakistan-13944561.html</link>
 <pubDate>Fri, 24 Oct 2025 04:47:28 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Hours after Louvre, another museum robbed in France. What happened?]]></title>
+<link>https://www.firstpost.com/explainers/denis-diderot-museum-robbed-france-after-louvre-13944540.html</link>
+<pubDate>Fri, 24 Oct 2025 06:49:27 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Going bonkers over boba? Why you shouldn’t be drinking bubble tea every day]]></title>
-<link>https://www.firstpost.com/health/bubble-tea-health-risks-lead-contamination-13944437.html</link>
-<pubDate>Thu, 23 Oct 2025 16:33:48 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Bangladesh on the brink: How the Yunus regime’s Islamist purge threatens the military]]></title>
+<link>https://www.firstpost.com/opinion/bangladesh-on-the-brink-how-the-yunus-regimes-islamist-purge-threatens-the-military-13944426.html</link>
+<pubDate>Thu, 23 Oct 2025 09:26:07 -0000</pubDate>
+<description><![CDATA[Unless Bangladesh’s democratic and security institutions are defended, the world may soon confront a new Islamist axis anchored in Dhaka, destabilising the entire Indo-Pacific theatre.]]></description>
 </item>
 <item>
 <title><![CDATA[China’s influence operations and coercive diplomacy: India’s response offers a blueprint for democracies]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/why-deoband-should-be-kept-away-from-india-taliban-engagement-13944131.html</link>
 <pubDate>Wed, 22 Oct 2025 10:12:13 -0000</pubDate>
 <description><![CDATA[The government, with its diplomatic and intelligence apparatus, is competent enough to engage with the Taliban; engaging Deoband will add unnecessary complexities.]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan army chief Munir’s existential threat]]></title>
-<link>https://www.firstpost.com/opinion/pakistan-army-chief-munirs-existential-threat-13944089.html</link>
-<pubDate>Wed, 22 Oct 2025 11:14:15 -0000</pubDate>
-<description><![CDATA[Much of Munir’s anger against India stems from the realisation that Pakistan is rapidly falling behind India economically, militarily and geopolitically]]></description>
 </item>
 </channel></rss>
