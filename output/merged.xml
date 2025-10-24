@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 24 Oct 2025 10:14:19 GMT</lastBuildDate>
+<lastBuildDate>Fri, 24 Oct 2025 11:11:11 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Why Trump’s ballroom in the White House is unlike any other renovation by US presidents]]></title>
+<link>https://www.firstpost.com/explainers/trump-ballroom-east-wing-white-house-renovation-history-us-presidents-13944726.html</link>
+<pubDate>Fri, 24 Oct 2025 10:54:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Is cloud seeding Delhi’s pollution ka solution?]]></title>
+<link>https://www.firstpost.com/explainers/cloud-seeding-delhi-air-pollution-artificial-rain-effectiveness-13944683.html</link>
+<pubDate>Fri, 24 Oct 2025 10:39:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Why did Trump pardon convicted Binance founder? Was it business?]]></title>
 <link>https://www.firstpost.com/explainers/trump-pardon-binance-founder-changpeng-zhao-crypto-politics-13944678.html</link>
@@ -29,18 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Will Trump’s oil sanctions on Russia hurt Putin and his plans for Ukraine war?]]></title>
-<link>https://www.firstpost.com/explainers/trump-russia-oil-sanctions-putin-ukraine-war-energy-markets-13944604.html</link>
-<pubDate>Fri, 24 Oct 2025 07:35:30 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Tomato prices soar 400%: How shutting down of Afghanistan border is hurting Pakistan]]></title>
-<link>https://www.firstpost.com/explainers/tomato-prices-soar-400-how-shutting-down-of-afghanistan-border-is-hurting-pakistan-13944561.html</link>
-<pubDate>Fri, 24 Oct 2025 04:47:28 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[West still clings to intellectual colonialism while Indians face scholastic apartheid]]></title>
 <link>https://www.firstpost.com/opinion/west-still-clings-to-intellectual-colonialism-while-indians-face-scholastic-apartheid-13944598.html</link>
 <pubDate>Fri, 24 Oct 2025 08:47:48 -0000</pubDate>
@@ -51,6 +51,12 @@
 <link>https://www.firstpost.com/opinion/qatar-smart-power-doha-diplomacy-13944639.html</link>
 <pubDate>Fri, 24 Oct 2025 07:46:09 -0000</pubDate>
 <description><![CDATA[The ability to talk to both sides is Doha’s rarest currency. If any Arab state can help reduce the reflexive hostility between Tehran and the Arab world, it is Qatar]]></description>
+</item>
+<item>
+<title><![CDATA[India isn’t heading for revolution, it’s redefining democracy]]></title>
+<link>https://www.firstpost.com/opinion/india-redefining-democracy-not-heading-for-revolution-13944739.html</link>
+<pubDate>Fri, 24 Oct 2025 10:59:42 -0000</pubDate>
+<description><![CDATA[India’s transformation is noisy, complex, and self-driven, but it is not anarchic. The ‘revolution’ underway is one of empowerment: digital inclusion, education, start-up mobility, and global ambition]]></description>
 </item>
 <item>
 <title><![CDATA[Bangladesh on the brink: How the Yunus regime’s Islamist purge threatens the military]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/how-trumps-sanctions-and-tariffs-have-redrawn-the-world-map-and-put-eurasia-at-the-centre-13944386.html</link>
 <pubDate>Thu, 23 Oct 2025 09:41:07 -0000</pubDate>
 <description><![CDATA[The global oil market is no longer just about barrels and prices; it is about currencies, alliances and power.]]></description>
-</item>
-<item>
-<title><![CDATA[False victories, real losses: How Munir’s delusions risk Pakistan's future]]></title>
-<link>https://www.firstpost.com/opinion/false-victories-real-losses-how-munirs-delusions-risk-pakistans-future-13944347.html</link>
-<pubDate>Thu, 23 Oct 2025 08:30:50 -0000</pubDate>
-<description><![CDATA[In these past three and a half decades, Pakistan has suffered terribly economically; its society has become increasingly imbued with extremist Islamic theologies, and its polity has remained unstable. The only institution that has prospered has been the Pakistan Army.]]></description>
 </item>
 </channel></rss>
