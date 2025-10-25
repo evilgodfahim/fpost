@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 25 Oct 2025 09:11:27 GMT</lastBuildDate>
+<lastBuildDate>Sat, 25 Oct 2025 10:11:30 GMT</lastBuildDate>
 <item>
 <title><![CDATA[This Week in Explainers: How green crackers failed to stop Delhi’s air from turning toxic]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-green-crackers-delhi-air-quality-pollution-13944861.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Here’s why there is no correlation between India’s move to cut Russian oil imports and impending US trade deal]]></title>
+<link>https://www.firstpost.com/opinion/no-correlation-india-russian-oil-cuts-us-trade-deal-13944938.html</link>
+<pubDate>Sat, 25 Oct 2025 09:44:40 -0000</pubDate>
+<description><![CDATA[PM Modi is taking a long view of the relationship, which is reflected in India’s calmness and restraint despite relentless provocation from the other side]]></description>
+</item>
+<item>
 <title><![CDATA[How Francesca Orsini’s deportation is no loss to India or Hindi]]></title>
 <link>https://www.firstpost.com/opinion/francesca-orsini-deportation-india-hindi-13944962.html</link>
 <pubDate>Sat, 25 Oct 2025 06:33:22 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/yunus-bangladesh-army-rift-and-radicalisation-13944768.html</link>
 <pubDate>Fri, 24 Oct 2025 12:09:19 -0000</pubDate>
 <description><![CDATA[Under Muhammad Yunus’s weak and misguided interim rule, the once-disciplined Bangladesh Army now stands divided, torn between secular patriots, political opportunists, and Islamist sympathisers]]></description>
-</item>
-<item>
-<title><![CDATA[India isn’t heading for revolution, it’s redefining democracy]]></title>
-<link>https://www.firstpost.com/opinion/india-redefining-democracy-not-heading-for-revolution-13944739.html</link>
-<pubDate>Fri, 24 Oct 2025 10:59:42 -0000</pubDate>
-<description><![CDATA[India’s transformation is noisy, complex, and self-driven, but it is not anarchic. The ‘revolution’ underway is one of empowerment: digital inclusion, education, start-up mobility, and global ambition]]></description>
 </item>
 </channel></rss>
