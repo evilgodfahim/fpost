@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 01 Nov 2025 11:09:31 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Nov 2025 12:22:00 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Why US food aid benefits will continue in November despite govt shutdown]]></title>
 <link>https://www.firstpost.com/explainers/us-shutdown-food-stamps-snap-funding-trump-court-rulings-13946900.html</link>
@@ -41,10 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India-US defence deal signals strategic interests trump temporary frictions]]></title>
-<link>https://www.firstpost.com/opinion/india-us-defence-deal-signals-strategic-interests-trump-temporary-frictions-13946960.html</link>
-<pubDate>Sat, 01 Nov 2025 10:11:41 -0000</pubDate>
-<description><![CDATA[As Rajnath Singh and Pete Hegseth ink a new ten-year defence framework in Kuala Lumpur, Delhi signals continuity without capitulation—and Washington discovers that partnership, not pressure, will define the next phase]]></description>
+<title><![CDATA[How Trump’s revival of G2 ghost is self-defeating for the US]]></title>
+<link>https://www.firstpost.com/opinion/trump-g2-revival-us-indo-pacific-credibility-13946982.html</link>
+<pubDate>Sat, 01 Nov 2025 12:21:59 -0000</pubDate>
+<description><![CDATA[More than the implications for India, the term casts the US in a poor light—as a power whose imperial sun is finally setting, one that has subtly conceded ground to its principal challenger while reminding allies why Washington can never be trusted]]></description>
+</item>
+<item>
+<title><![CDATA[How Pakistan’s Afghan policy has become Rawalpindi’s Frankenstein]]></title>
+<link>https://www.firstpost.com/opinion/how-pakistans-afghan-policy-has-become-rawalpindis-frankenstein-13946932.html</link>
+<pubDate>Sat, 01 Nov 2025 12:06:59 -0000</pubDate>
+<description><![CDATA[Pakistan’s aspirations to have a patron-client relationship with the Taliban have now backfired, and there is no antidote available to counter it]]></description>
 </item>
 <item>
 <title><![CDATA[How Maldives’ Muizzu gives India new cause for concern]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/trump-and-xi-in-busan-a-tactical-pause-in-us-china-rivalry-13946708.html</link>
 <pubDate>Fri, 31 Oct 2025 13:58:08 -0000</pubDate>
 <description><![CDATA[While a temporary agreement was reached between the United States and China, the fundamental competitive dynamics remain]]></description>
-</item>
-<item>
-<title><![CDATA[JeM’s new terror strategy post Operation Sindoor: Weaponising women for jihad]]></title>
-<link>https://www.firstpost.com/opinion/jems-new-terror-strategy-post-operation-sindoor-weaponising-women-for-jihad-13946656.html</link>
-<pubDate>Fri, 31 Oct 2025 10:13:48 -0000</pubDate>
-<description><![CDATA[The decision of Jaish-e-Mohammed, known for religious conservatism, to start a separate female brigade shows that it is flexible in making tactical changes and adjustments when it comes to the larger objective of jihad]]></description>
 </item>
 </channel></rss>
