@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 02 Nov 2025 07:11:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 02 Nov 2025 08:14:24 GMT</lastBuildDate>
+<item>
+<title><![CDATA[This Week in Explainers: What is Russia’s Burevestnik missile that prompted US to resume nuclear testing?]]></title>
+<link>https://www.firstpost.com/explainers/this-week-in-explainers-what-is-russias-burevestnik-missile-that-prompted-us-to-resume-nuclear-testing-13946768.html</link>
+<pubDate>Sun, 02 Nov 2025 08:14:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[History Today: How King Saud Al Saud was dethroned after a coup in Saudi Arabia]]></title>
 <link>https://www.firstpost.com/explainers/history-today-how-king-saud-al-saud-was-dethroned-after-a-coup-in-saudi-arabia-13946396.html</link>
@@ -35,10 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[History Today: When the Sistine Chapel opened its doors to the public for the first time]]></title>
-<link>https://www.firstpost.com/explainers/history-today-when-the-sistine-chapel-opened-its-doors-to-the-public-for-the-first-time-13946028.html</link>
-<pubDate>Sat, 01 Nov 2025 06:16:52 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[India-US defence deal: Washington must realise benefits of Delhi's strategic autonomy]]></title>
+<link>https://www.firstpost.com/opinion/us-india-defence-deals-strategic-autonomy-13947141.html</link>
+<pubDate>Sun, 02 Nov 2025 08:14:23 -0000</pubDate>
+<description><![CDATA[May America realise the favourable outcomes of India’s strategic autonomy and want to ensure it stays in India’s procurement and technology demand game]]></description>
+</item>
+<item>
+<title><![CDATA[India-US defence deal signals strategic interests trump temporary frictions]]></title>
+<link>https://www.firstpost.com/opinion/india-us-defence-deal-signals-strategic-interests-trump-temporary-frictions-13946960.html</link>
+<pubDate>Sat, 01 Nov 2025 10:11:41 -0000</pubDate>
+<description><![CDATA[As Rajnath Singh and Pete Hegseth ink a new ten-year defence framework in Kuala Lumpur, Delhi signals continuity without capitulation—and Washington discovers that partnership, not pressure, will define the next phase]]></description>
 </item>
 <item>
 <title><![CDATA[How Trump’s revival of G2 ghost is self-defeating for the US]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/global-rare-earth-dynamics-why-its-action-time-for-india-ws-e-13946811.html</link>
 <pubDate>Sat, 01 Nov 2025 08:00:22 -0000</pubDate>
 <description><![CDATA[In an era where power projection extends into supply chains and resource dependencies, rare earth resilience is not just an industrial challenge—it is a geopolitical imperative]]></description>
-</item>
-<item>
-<title><![CDATA[Fragile peace: Why the Taliban-Pakistan ceasefire can’t end the conflict]]></title>
-<link>https://www.firstpost.com/opinion/fragile-peace-why-the-taliban-pakistan-ceasefire-cant-end-the-conflict-13946782.html</link>
-<pubDate>Fri, 31 Oct 2025 14:13:08 -0000</pubDate>
-<description><![CDATA[The ceasefire between Pakistan and Afghanistan may not hold the antagonism in abeyance much longer]]></description>
-</item>
-<item>
-<title><![CDATA[Trump and Xi in Busan: A tactical pause in US-China rivalry]]></title>
-<link>https://www.firstpost.com/opinion/trump-and-xi-in-busan-a-tactical-pause-in-us-china-rivalry-13946708.html</link>
-<pubDate>Fri, 31 Oct 2025 13:58:08 -0000</pubDate>
-<description><![CDATA[While a temporary agreement was reached between the United States and China, the fundamental competitive dynamics remain]]></description>
 </item>
 </channel></rss>
