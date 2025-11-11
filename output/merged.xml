@@ -3,17 +3,17 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 11 Nov 2025 10:14:52 GMT</lastBuildDate>
+<lastBuildDate>Tue, 11 Nov 2025 11:11:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Warren Buffett steps back: The ups and ups of the 'Oracle of Omaha']]></title>
+<link>https://www.firstpost.com/explainers/warren-buffett-berkshire-hathaway-succession-greg-abel-13949681.html</link>
+<pubDate>Tue, 11 Nov 2025 11:11:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[When will the US shutdown end? What will the government reopening look like?]]></title>
 <link>https://www.firstpost.com/explainers/when-will-the-us-shutdown-end-13949679.html</link>
 <pubDate>Tue, 11 Nov 2025 09:36:54 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Meet Siddhant Awasthi, Tesla’s Cybertruck chief who has now resigned]]></title>
-<link>https://www.firstpost.com/explainers/meet-siddhant-awasthi-teslas-cybertruck-chief-who-has-now-resigned-13949680.html</link>
-<pubDate>Tue, 11 Nov 2025 09:21:54 -0000</pubDate>
 <description><![CDATA[]]></description>
 </item>
 <item>
@@ -47,6 +47,12 @@
 <description><![CDATA[Nyoma offered the best bowl in the hills for building the airfield for fighter operations, adding a major airhead that greatly reduces reaction time]]></description>
 </item>
 <item>
+<title><![CDATA[India’s Bahubali moment: Building space power for next-gen warfare]]></title>
+<link>https://www.firstpost.com/opinion/india-space-power-bahubali-moment-future-warfare-13949727.html</link>
+<pubDate>Tue, 11 Nov 2025 11:11:52 -0000</pubDate>
+<description><![CDATA[India is building formidable military space infrastructure, recognising that the next major conflict may well be decided not on terrestrial battlefields, but in space]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan’s cosiness with US, China and Turkey aims to counter India in Indian Ocean]]></title>
 <link>https://www.firstpost.com/opinion/pakistan-china-turkey-us-alliance-countering-india-in-indian-ocean-13949308.html</link>
 <pubDate>Tue, 11 Nov 2025 08:17:49 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/taiwan-influence-apec-2025-gyeongju-13949439.html</link>
 <pubDate>Mon, 10 Nov 2025 12:26:04 -0000</pubDate>
 <description><![CDATA[In a region facing structural shifts—digital transformation, green transition, supply-chain re-engineering—Taiwan’s quiet but strategic engagement via Apec offers lessons in how mid-sized economies can exert influence, build partnerships and contribute to regional public goods]]></description>
-</item>
-<item>
-<title><![CDATA[Beyond clamour of polls and silence of migration seeps the forgotten glory of Darbhanga Raj]]></title>
-<link>https://www.firstpost.com/opinion/darbhanga-raj-forgotten-glory-history-bihar-13949181.html</link>
-<pubDate>Sun, 09 Nov 2025 12:07:11 -0000</pubDate>
-<description><![CDATA[At the time of Independence, Darbhanga was one of the subcontinent’s most prosperous and better-managed administrative units, whose rise and fall form an important chapter of India’s history]]></description>
 </item>
 </channel></rss>
