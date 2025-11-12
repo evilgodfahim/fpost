@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 12 Nov 2025 11:11:48 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Nov 2025 12:26:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Trump vs BBC: Will US president's defamation case hold up in court?]]></title>
+<link>https://www.firstpost.com/explainers/trump-vs-bbc-will-us-presidents-defamation-case-hold-up-in-court-13950024.html</link>
+<pubDate>Wed, 12 Nov 2025 12:26:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How tattoos and clothes help families identify their loved ones in Delhi blast]]></title>
+<link>https://www.firstpost.com/explainers/delhi-red-fort-blast-tattoos-clothes-victims-identification-13949973.html</link>
+<pubDate>Wed, 12 Nov 2025 12:11:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Do you have a ‘Certified Bangers’ badge on X? Here’s what it means]]></title>
 <link>https://www.firstpost.com/explainers/certified-bangers-badge-x-how-does-it-work-13949987.html</link>
@@ -29,16 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How dangerous is ammonium nitrate believed to be used in Delhi blast]]></title>
-<link>https://www.firstpost.com/explainers/ammonium-nitrate-vs-rdx-red-fort-blast-13949955.html</link>
-<pubDate>Wed, 12 Nov 2025 08:18:25 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Why the new 'Lucifer' bee is creating such a buzz]]></title>
-<link>https://www.firstpost.com/explainers/why-the-new-lucifer-bee-is-creating-such-a-buzz-13949806.html</link>
-<pubDate>Wed, 12 Nov 2025 08:03:25 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Delhi blast underscores India’s escalating terror threat despite security gains]]></title>
+<link>https://www.firstpost.com/opinion/delhi-blast-underscores-indias-escalating-terror-threat-despite-security-gains-13950026.html</link>
+<pubDate>Wed, 12 Nov 2025 12:26:23 -0000</pubDate>
+<description><![CDATA[India can no longer just ‘mow the lawn’ against terrorism. It’s time for the country to change the rules of the counterterror game.]]></description>
 </item>
 <item>
 <title><![CDATA[If America’s debt bubble bursts, here’s India’s smart path to economic dominance]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/india-space-power-bahubali-moment-future-warfare-13949727.html</link>
 <pubDate>Tue, 11 Nov 2025 11:11:52 -0000</pubDate>
 <description><![CDATA[India is building formidable military space infrastructure, recognising that the next major conflict may well be decided not on terrestrial battlefields, but in space]]></description>
-</item>
-<item>
-<title><![CDATA[Small in size, big in tech and influence: How Taiwan punches above its weight in Apec]]></title>
-<link>https://www.firstpost.com/opinion/taiwan-influence-apec-2025-gyeongju-13949439.html</link>
-<pubDate>Mon, 10 Nov 2025 12:26:04 -0000</pubDate>
-<description><![CDATA[In a region facing structural shifts—digital transformation, green transition, supply-chain re-engineering—Taiwan’s quiet but strategic engagement via Apec offers lessons in how mid-sized economies can exert influence, build partnerships and contribute to regional public goods]]></description>
 </item>
 </channel></rss>
