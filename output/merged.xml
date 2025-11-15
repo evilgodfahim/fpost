@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 15 Nov 2025 09:12:08 GMT</lastBuildDate>
+<lastBuildDate>Sat, 15 Nov 2025 10:12:10 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Epstein Files: How Trump is trying to shift the spotlight to Clinton and the Democrats]]></title>
+<link>https://www.firstpost.com/explainers/trump-new-epstein-files-investigation-bill-clinton-democrats-13950875.html</link>
+<pubDate>Sat, 15 Nov 2025 10:12:09 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: How suicide bomber killed 12 in Islamabad]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-pakistan-islamabad-suicide-bombing-blast-13950763.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[China begins trials of 'Sichuan' ship. Why it matters]]></title>
-<link>https://www.firstpost.com/explainers/china-type-076-sichuan-sea-trials-naval-aviation-upgrade-analysis-13950738.html</link>
-<pubDate>Fri, 14 Nov 2025 15:46:15 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Why Trump’s popularity in America is plunging even deeper]]></title>
+<link>https://www.firstpost.com/opinion/trump-popularity-in-america-plunging-2025-13950892.html</link>
+<pubDate>Sat, 15 Nov 2025 10:12:10 -0000</pubDate>
+<description><![CDATA[The ‘Trump effect’ has been divisive and unsettling to social structures and political cohesion in the US. There is growing concern among Americans about how Trump's presidency has intensified the political divide]]></description>
 </item>
 <item>
 <title><![CDATA[Nine lessons from tsuNiMo in Bihar: Decoding a verdict that could reshape Bharat’s politics]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/president-murmu-botswana-visit-india-africa-partnership-13950615.html</link>
 <pubDate>Fri, 14 Nov 2025 08:17:48 -0000</pubDate>
 <description><![CDATA[As both countries prepare to celebrate 60 years of diplomatic ties in 2026, their collaboration is poised to evolve into a model of South-South partnership—one that combines India’s developmental experience and Botswana’s governance excellence]]></description>
-</item>
-<item>
-<title><![CDATA[Rich kid socialism or rising progressive force? The case of Zohran Mamdani]]></title>
-<link>https://www.firstpost.com/opinion/rich-kid-socialism-or-rising-progressive-force-the-case-of-zohran-mamdani-13950451.html</link>
-<pubDate>Thu, 13 Nov 2025 14:59:54 -0000</pubDate>
-<description><![CDATA[The future of Mamdani’s experiment depends on whether he can convert generational energy into institutional outcomes]]></description>
 </item>
 </channel></rss>
