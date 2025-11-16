@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 08:15:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 09:12:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[This Week in Explainers: How NDA pulled off ‘is baar 200 paar’ in Bihar]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-how-nda-pulled-off-is-baar-200-paar-in-bihar-13950734.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[Terror’s urban avatar: How India can win the new proxy war]]></title>
+<link>https://www.firstpost.com/opinion/terrors-urban-avatar-how-india-can-win-the-new-proxy-war-13951126.html</link>
+<pubDate>Sun, 16 Nov 2025 07:18:52 -0000</pubDate>
+<description><![CDATA[A plot stretching from Srinagar to Delhi reveals how terror has evolved; professionalised, networked, and aimed as much at social trust as at physical targets]]></description>
+</item>
+<item>
 <title><![CDATA[West’s deafening silence on Pakistan’s funeral of democracy]]></title>
 <link>https://www.firstpost.com/opinion/asim-munir-power-grab-pakistan-constitutional-coup-13950894.html</link>
 <pubDate>Sun, 16 Nov 2025 06:18:02 -0000</pubDate>
@@ -65,15 +71,9 @@
 <description><![CDATA[Scientists estimate that air pollution in Delhi reduces an average life by almost a decade]]></description>
 </item>
 <item>
-<title><![CDATA[Nine lessons from tsuNiMo in Bihar: Decoding a verdict that could reshape Bharat’s politics]]></title>
-<link>https://www.firstpost.com/opinion/nine-lessons-bihar-elections-modi-nitish-bihar-verdict-decoding-india-politics-13950768.html</link>
-<pubDate>Sat, 15 Nov 2025 08:15:07 -0000</pubDate>
-<description><![CDATA[Bihar’s verdict delivers a clear message: electoral success today hinges less on identity or optics and more on governance, trust, credible delivery, and disciplined organisation]]></description>
-</item>
-<item>
-<title><![CDATA[Terror’s urban avatar: How India can win the new proxy war]]></title>
-<link>https://www.firstpost.com/opinion/terrors-urban-avatar-how-india-can-win-the-new-proxy-war-13951126.html</link>
-<pubDate>Sun, 16 Nov 2025 07:18:52 -0000</pubDate>
-<description><![CDATA[A plot stretching from Srinagar to Delhi reveals how terror has evolved; professionalised, networked, and aimed as much at social trust as at physical targets]]></description>
+<title><![CDATA[Asim Munir’s constitutional coup exposes the hollowness of Pakistan’s democracy]]></title>
+<link>https://www.firstpost.com/opinion/asim-munir-constitutional-coup-pakistan-military-dominance-13951146.html</link>
+<pubDate>Sun, 16 Nov 2025 09:12:15 -0000</pubDate>
+<description><![CDATA[Democracies survive because institutions can push the pack, when those institutions are hollowed out and become executive-dependent, the only check left is the market for international censure]]></description>
 </item>
 </channel></rss>
