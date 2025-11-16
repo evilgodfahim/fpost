@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 16 Nov 2025 05:12:21 GMT</lastBuildDate>
+<lastBuildDate>Sun, 16 Nov 2025 06:18:02 GMT</lastBuildDate>
+<item>
+<title><![CDATA[History Today: When Benazir Bhutto shattered barriers to become Pakistan's first woman PM]]></title>
+<link>https://www.firstpost.com/explainers/history-today-november-16-benazir-bhutto-first-woman-pm-pakistan-13950079.html</link>
+<pubDate>Sun, 16 Nov 2025 06:18:01 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[RJD won the most votes in Bihar. So why did it lose the election?]]></title>
 <link>https://www.firstpost.com/explainers/bihar-state-election-2025-rjd-vote-share-seat-loss-explained-13950977.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Tejashwi Yadav, Maithili Thakur and more... The big winners and losers in Bihar]]></title>
-<link>https://www.firstpost.com/explainers/bihar-assembly-election-results-winners-losers-candidates-tejashwi-yadav-maithili-thakur-more-13950549.html</link>
-<pubDate>Sat, 15 Nov 2025 05:12:30 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[West’s deafening silence on Pakistan’s funeral of democracy]]></title>
+<link>https://www.firstpost.com/opinion/asim-munir-power-grab-pakistan-constitutional-coup-13950894.html</link>
+<pubDate>Sun, 16 Nov 2025 06:18:02 -0000</pubDate>
+<description><![CDATA[The West’s backing of Asim Munir will not stop even if Pakistan gets balkanised so as to balance an emerging India—the Pakistani military has once again played the right cards to become their best bet]]></description>
 </item>
 <item>
 <title><![CDATA[What a troubled neighbourhood means for India]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/bihar-elections-nda-victory-modis-hindi-heartland-strength-13950729.html</link>
 <pubDate>Fri, 14 Nov 2025 16:16:16 -0000</pubDate>
 <description><![CDATA[This decisive Bihar victory reinforces the NDA’s legitimacy and national standing]]></description>
-</item>
-<item>
-<title><![CDATA[Delhi blast cautions India about internal-external terror nexus]]></title>
-<link>https://www.firstpost.com/opinion/delhi-blast-india-internal-external-terror-nexus-13950636.html</link>
-<pubDate>Fri, 14 Nov 2025 10:15:11 -0000</pubDate>
-<description><![CDATA[For any nation, homegrown terrorism is amongst the most serious threats, especially if it is supported and backed by a foreign adversary]]></description>
 </item>
 </channel></rss>
