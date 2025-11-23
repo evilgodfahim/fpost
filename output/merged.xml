@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 23 Nov 2025 08:16:05 GMT</lastBuildDate>
+<lastBuildDate>Sun, 23 Nov 2025 09:12:25 GMT</lastBuildDate>
 <item>
 <title><![CDATA[History Today: When Irpinia earthquake, Italy’s strongest ever, killed more than 2,000]]></title>
 <link>https://www.firstpost.com/explainers/history-today-when-irpinia-earthquake-italys-strongest-ever-killed-more-than-2000-13952041.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How deep-sea fishing can help India and Sri Lanka resolve the Palk Bay dispute]]></title>
+<link>https://www.firstpost.com/opinion/how-deep-sea-fishing-can-resolve-india-sri-lanka-palk-bay-dispute-13953273.html</link>
+<pubDate>Sun, 23 Nov 2025 09:12:25 -0000</pubDate>
+<description><![CDATA[Deep-sea fishing isn’t just a matter of policy reform; it is the only sustainable, long-term solution to the Palk Bay dispute, enforcement gaps, and cultural resistance]]></description>
+</item>
+<item>
 <title><![CDATA[MBS’s return to Washington signals a strategic reset in US-Saudi relations]]></title>
 <link>https://www.firstpost.com/opinion/mbs-washington-2025-us-saudi-alliance-reset-13953031.html</link>
 <pubDate>Sun, 23 Nov 2025 08:06:07 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/isolation-of-alliance-of-sahel-states-fuels-islamist-insurgency-in-region-13952872.html</link>
 <pubDate>Fri, 21 Nov 2025 13:23:30 -0000</pubDate>
 <description><![CDATA[The future of the AES depends on how well it tackles governance and security-related challenges, and for that it needs Ecowas as well as the Western world]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh follows Pakistan template, targeting Ahmadiyyas after Hindus]]></title>
-<link>https://www.firstpost.com/opinion/bangladesh-pakistan-template-ahmadiyya-targeting-13952829.html</link>
-<pubDate>Fri, 21 Nov 2025 11:54:40 -0000</pubDate>
-<description><![CDATA[In the journey towards a Sharia-governed state, highly regressive regulations to persecute women and minorities are likely to follow]]></description>
 </item>
 </channel></rss>
