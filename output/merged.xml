@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 24 Nov 2025 08:19:25 GMT</lastBuildDate>
+<lastBuildDate>Mon, 24 Nov 2025 09:16:51 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Who was Hezbollah leader Haytham Ali Tabatabai, killed in Israeli strike on Lebanon?]]></title>
 <link>https://www.firstpost.com/explainers/israel-strike-killing-hezbollah-chief-tabatabai-lebanon-13953507.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[US Sutra | Trump-Mamdani meet: Temporary truce or political theatre?]]></title>
+<link>https://www.firstpost.com/opinion/trump-mamdani-oval-office-meeting-us-politics-13953517.html</link>
+<pubDate>Mon, 24 Nov 2025 08:03:34 -0000</pubDate>
+<description><![CDATA[Politics is the art of deal-making. Not only Trump, but it appears his socialist critic and rival Mamdani too, is good at it]]></description>
+</item>
+<item>
 <title><![CDATA[View from Abroad | Revisiting ‘Macaulayism’ through Tilak’s vision: India’s right to choose its own education model]]></title>
 <link>https://www.firstpost.com/opinion/revisiting-macaulayism-tilak-vision-india-education-13953482.html</link>
 <pubDate>Mon, 24 Nov 2025 06:05:49 -0000</pubDate>
@@ -59,21 +65,15 @@
 <description><![CDATA[Japan must lead with principled resolve in a precarious situation. Tokyo should stand tall, not in isolation, but as a pillar of a free and open Indo-Pacific]]></description>
 </item>
 <item>
-<title><![CDATA[How deep-sea fishing can help India and Sri Lanka resolve the Palk Bay dispute]]></title>
-<link>https://www.firstpost.com/opinion/how-deep-sea-fishing-can-resolve-india-sri-lanka-palk-bay-dispute-13953273.html</link>
-<pubDate>Sun, 23 Nov 2025 10:54:56 -0000</pubDate>
-<description><![CDATA[Deep-sea fishing isn’t just a matter of policy reform; it is the only sustainable, long-term solution to the Palk Bay dispute]]></description>
-</item>
-<item>
-<title><![CDATA[US Sutra | Trump-Mamdani meet: Temporary truce or political theatre?]]></title>
-<link>https://www.firstpost.com/opinion/trump-mamdani-oval-office-meeting-us-politics-13953517.html</link>
-<pubDate>Mon, 24 Nov 2025 08:03:34 -0000</pubDate>
-<description><![CDATA[Politics is the art of deal-making. Not only Trump, but it appears his socialist critic and rival Mamdani too, is good at it]]></description>
-</item>
-<item>
 <title><![CDATA[Rajasthan’s Jalore: A medieval fort town set for an inland port makeover]]></title>
 <link>https://www.firstpost.com/opinion/jalore-inland-port-and-heritage-13953329.html</link>
 <pubDate>Sun, 23 Nov 2025 12:21:32 -0000</pubDate>
 <description><![CDATA[A 262-km waterway linking Jalore to the Gulf of Kutch will revive an old medieval trade route]]></description>
+</item>
+<item>
+<title><![CDATA[How deep-sea fishing can help India and Sri Lanka resolve the Palk Bay dispute]]></title>
+<link>https://www.firstpost.com/opinion/how-deep-sea-fishing-can-resolve-india-sri-lanka-palk-bay-dispute-13953273.html</link>
+<pubDate>Sun, 23 Nov 2025 10:54:56 -0000</pubDate>
+<description><![CDATA[Deep-sea fishing isn’t just a matter of policy reform; it is the only sustainable, long-term solution to the Palk Bay dispute]]></description>
 </item>
 </channel></rss>
