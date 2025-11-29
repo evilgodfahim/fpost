@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 29 Nov 2025 10:12:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 29 Nov 2025 11:09:49 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Why are Airbus planes being recalled worldwide? How are Indian airlines affected?]]></title>
+<link>https://www.firstpost.com/explainers/airbus-a320-planes-recall-solar-radiation-disruption-software-issue-13954984.html</link>
+<pubDate>Sat, 29 Nov 2025 11:09:48 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: How Arunachal woman’s detention sparked diplomatic spat between India and China]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-arunachal-woman-detention-diplomatic-spat-india-china-13954867.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who is Bandhu Maan Singh Sekhon? Gangster linked to firing at Kapil Sharma’s Canada café arrested]]></title>
-<link>https://www.firstpost.com/explainers/bandhu-maan-singh-sekhon-kapil-sharma-cafe-shootings-arrest-13954843.html</link>
-<pubDate>Fri, 28 Nov 2025 14:25:41 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[The grim message behind deadly shootout at Washington]]></title>
 <link>https://www.firstpost.com/opinion/washington-shooting-white-house-national-guard-terrorism-alert-13955026.html</link>
 <pubDate>Sat, 29 Nov 2025 07:32:01 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[Global military strongmen seeking to overthrow governments and install themselves as dictators must learn from Pakistan’s playbook on how to falsely project defeat as victory]]></description>
 </item>
 <item>
+<title><![CDATA[How Pakistan’s nuclear-terror nexus enters its most dangerous phase under Munir’s dictatorship]]></title>
+<link>https://www.firstpost.com/opinion/pakistan-nuclear-terror-munir-dictatorship-13955052.html</link>
+<pubDate>Sat, 29 Nov 2025 11:09:49 -0000</pubDate>
+<description><![CDATA[The world can no longer treat Pakistan’s internal affairs as domestic. The country has entered a perilous era where a single man wields constitutional, military, and nuclear authority, yet he is unbounded by any accountability, law, or restraint]]></description>
+</item>
+<item>
 <title><![CDATA[China opens ‘Arctic Express’ route: Need to push Indian maritime corridors]]></title>
 <link>https://www.firstpost.com/opinion/china-arctic-express-india-maritime-corridors-13954825.html</link>
 <pubDate>Fri, 28 Nov 2025 13:25:51 -0000</pubDate>
 <description><![CDATA[India must expand Arctic engagement, strengthen maritime capabilities, deepen strategic partnerships, especially with Russia, and leverage new trade corridors to secure its geopolitical and economic interests amid intensifying global competition]]></description>
-</item>
-<item>
-<title><![CDATA[Does Hu Yaobang’s vision on Tibet still matter?]]></title>
-<link>https://www.firstpost.com/opinion/hu-yaobang-tibet-autonomy-xi-jinping-legacy-13954782.html</link>
-<pubDate>Fri, 28 Nov 2025 09:14:01 -0000</pubDate>
-<description><![CDATA[According to Hu’s vision, Tibetans should fully exercise ‘nationality autonomy’ and truly be the masters of their own lives. Xi Jinping’s reference to Hu suggests that, even as Beijing pursues the complete sinicisation of its restive provinces, Hu’s vision has not been entirely buried]]></description>
 </item>
 </channel></rss>
