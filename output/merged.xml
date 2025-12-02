@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 02 Dec 2025 14:15:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 02 Dec 2025 15:15:09 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Does the US have a ‘K-shaped’ economy?]]></title>
+<link>https://www.firstpost.com/explainers/does-the-us-have-a-k-shaped-economy-13955952.html</link>
+<pubDate>Tue, 02 Dec 2025 15:15:08 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[The tightrope of trust: How Modi and Putin have maintained a solid friendship since 2014]]></title>
 <link>https://www.firstpost.com/explainers/putin-india-visit-2025-summit-modi-friendship-since-2014-history-explained-13955880.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Fact-check: Did India send a letter to Pakistan asking for the custody of Imran Khan?]]></title>
-<link>https://www.firstpost.com/explainers/fact-check-india-imran-khan-political-prisoner-pakistan-13955824.html</link>
-<pubDate>Tue, 02 Dec 2025 10:57:59 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[When machines become partners: The new normal of AI intimacy]]></title>
 <link>https://www.firstpost.com/opinion/when-machines-become-partners-the-new-normal-of-ai-intimacy-13955959.html</link>
 <pubDate>Tue, 02 Dec 2025 13:31:48 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[Imran Khan has repeatedly accused General Asim Munir of being the ‘most oppressive dictator’ in the country’s history and of orchestrating a vindictive political crackdown. Rumours about Khan’s death have further deepened Pakistan’s political polarisation, pushing the country to a critical juncture]]></description>
 </item>
 <item>
+<title><![CDATA[Putin in Delhi: How the India-Russia reset could reshape global geopolitics]]></title>
+<link>https://www.firstpost.com/opinion/putin-in-delhi-how-the-india-russia-reset-could-reshape-global-geopolitics-13956045.html</link>
+<pubDate>Tue, 02 Dec 2025 15:15:09 -0000</pubDate>
+<description><![CDATA[The India-Russia relationship today isn’t simply a replay of the Soviet-era script. It is leaner, less sentimental and far more transactional and also sturdier than most expected.]]></description>
+</item>
+<item>
 <title><![CDATA[Washington attack: Why Pakistan will want Trump to get entangled in Afghanistan]]></title>
 <link>https://www.firstpost.com/opinion/washington-attack-why-pakistan-will-want-trump-to-get-entangled-in-afghanistan-13955953.html</link>
 <pubDate>Tue, 02 Dec 2025 10:58:00 -0000</pubDate>
 <description><![CDATA[To stop the cycle of events along the Afghanistan border, Pakistan needs a heavy hand with powerful leverage. The United States fits the bill]]></description>
-</item>
-<item>
-<title><![CDATA[How India posted strong Q2 growth amid low-inflation tailwinds]]></title>
-<link>https://www.firstpost.com/opinion/how-india-posted-strong-q2-growth-amid-low-inflation-tailwinds-13955595.html</link>
-<pubDate>Mon, 01 Dec 2025 12:27:14 -0000</pubDate>
-<description><![CDATA[The challenge ahead lies in sustaining private consumption, broadening investment, restoring fiscal space through higher nominal growth and strengthening rural demand to complement urban consumption]]></description>
 </item>
 </channel></rss>
