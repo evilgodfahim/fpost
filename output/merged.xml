@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 07 Dec 2025 07:12:16 GMT</lastBuildDate>
+<lastBuildDate>Sun, 07 Dec 2025 08:15:53 GMT</lastBuildDate>
+<item>
+<title><![CDATA[This Week in Explainers: From Musketeers to ‘poop suitcase’, how Putin is protected]]></title>
+<link>https://www.firstpost.com/explainers/this-week-in-explainers-vladimir-putin-india-state-visit-highlights-security-13957200.html</link>
+<pubDate>Sun, 07 Dec 2025 08:15:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[History Today: How Japan staged a surprise attack on Pearl Harbour]]></title>
 <link>https://www.firstpost.com/explainers/history-today-how-japan-staged-a-surprise-attack-on-pearl-harbour-13956253.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[History Today: How India's Babri Masjid was demolished 33 years ago]]></title>
-<link>https://www.firstpost.com/explainers/history-today-how-indias-babri-masjid-was-demolished-33-years-ago-13955902.html</link>
-<pubDate>Sat, 06 Dec 2025 06:18:25 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[New report, old realities: Balochistan remains under Pakistan’s brutal siege]]></title>
+<link>https://www.firstpost.com/opinion/balochistan-pakistan-violence-enforced-disappearances-13957402.html</link>
+<pubDate>Sun, 07 Dec 2025 08:15:53 -0000</pubDate>
+<description><![CDATA[Violence in Balochistan is not incidental; it is systemic, structured, and historically produced]]></description>
 </item>
 <item>
 <title><![CDATA[Putin’s New Delhi visit: Towards a multipolar world, breaking the G2 cage]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/putin-in-delhi-india-can-deepen-russia-relations-while-keeping-washington-close-13957012.html</link>
 <pubDate>Fri, 05 Dec 2025 14:13:34 -0000</pubDate>
 <description><![CDATA[India and Russia can have closer ties, but this should not come at the cost of New Delhi’s relations with Washington, DC]]></description>
-</item>
-<item>
-<title><![CDATA[Zelenskyy has to swallow either Trump’s bitter or Europe’s bitterer peace pill]]></title>
-<link>https://www.firstpost.com/opinion/zelenskyy-has-to-swallow-either-trumps-bitter-or-europes-bitterer-peace-pill-13957002.html</link>
-<pubDate>Fri, 05 Dec 2025 13:58:34 -0000</pubDate>
-<description><![CDATA[The US and the EU merely prolonged the war in the name of protecting Ukraine’s sovereignty with no sincerity in ending it militarily or diplomatically]]></description>
 </item>
 </channel></rss>
