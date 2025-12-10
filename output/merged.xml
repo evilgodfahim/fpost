@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 10 Dec 2025 12:28:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 10 Dec 2025 13:32:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Why have fresh protests gripped Adiala Jail in Pakistan over Imran Khan?]]></title>
+<link>https://www.firstpost.com/explainers/imran-khan-adiala-jail-protest-solitary-confinement-access-denial-13958481.html</link>
+<pubDate>Wed, 10 Dec 2025 13:32:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[In Graphics | What is Blue Notice issued against Luthra bros in Thailand over Goa nightclub fire?]]></title>
 <link>https://www.firstpost.com/explainers/in-graphics-what-is-blue-notice-issued-against-luthra-bros-in-thailand-over-goa-nightclub-fire-13958498.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Quicksplained: How Ajay Gupta, co-owner of Goa nightclub, faked spine issue to evade arrest]]></title>
-<link>https://www.firstpost.com/explainers/ajay-gupta-co-owner-of-goa-nightclub-faked-spine-issue-to-evade-arrest-13958419.html</link>
-<pubDate>Wed, 10 Dec 2025 10:15:45 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Trump’s threat of new tariffs on Indian rice deepens trade standoff]]></title>
 <link>https://www.firstpost.com/opinion/trumps-threat-of-new-tariffs-on-indian-rice-deepens-trade-standoff-13958429.html</link>
 <pubDate>Wed, 10 Dec 2025 12:28:05 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[The External Affairs Minister is correct in categorically stating that India should never seek to hyphenate itself with Pakistan–now India is far ahead of Pakistan]]></description>
 </item>
 <item>
+<title><![CDATA[Drone-age warfare: Why Indian Army must command the air littoral battlespace]]></title>
+<link>https://www.firstpost.com/opinion/drone-age-warfare-why-indian-army-must-command-the-air-littoral-battlespace-13958553.html</link>
+<pubDate>Wed, 10 Dec 2025 13:32:15 -0000</pubDate>
+<description><![CDATA[The air littoral is no longer the exclusive domain of air forces. It is a shared battlespace where ground forces must lead in areas of direct contact.]]></description>
+</item>
+<item>
 <title><![CDATA[The way the Ukraine war ends will decide how the multipolar world unfolds]]></title>
 <link>https://www.firstpost.com/opinion/the-way-the-ukraine-war-ends-will-decide-how-the-multipolar-world-unfolds-13958186.html</link>
 <pubDate>Tue, 09 Dec 2025 12:12:36 -0000</pubDate>
 <description><![CDATA[How the Ukraine war pans out, when and how it ends and who the hidden beneficiaries are, as much in strategic terms as in economic terms, will decide the way the idea of a multipolar world will progress]]></description>
-</item>
-<item>
-<title><![CDATA[What Putin’s Delhi visit and India-Russia 2.0 mean for China]]></title>
-<link>https://www.firstpost.com/opinion/putin-delhi-visit-india-russia-2-0-china-impact-13957716.html</link>
-<pubDate>Mon, 08 Dec 2025 12:12:15 -0000</pubDate>
-<description><![CDATA[The Delhi summit positions India and Russia in testing the logic of resilience and prompts China to recalibrate accordingly]]></description>
 </item>
 </channel></rss>
