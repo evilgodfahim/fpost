@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 13 Dec 2025 07:11:46 GMT</lastBuildDate>
+<lastBuildDate>Sat, 13 Dec 2025 08:16:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[This Week in Explainers: Why Luthra brothers, owners of doomed Goa nightclub, are being deported from Thailand]]></title>
+<link>https://www.firstpost.com/explainers/this-week-in-explainers-luthra-brothers-owners-goa-nightclub-fire-thailand-deportation-13959239.html</link>
+<pubDate>Sat, 13 Dec 2025 08:16:49 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Fact-check: Did Pakistan’s Shehbaz Sharif really gate-crash Putin's closed-door meeting?]]></title>
 <link>https://www.firstpost.com/explainers/why-shehbaz-sharif-gatecrashed-putins-closed-door-meeting-13959280.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Is the China-Japan standoff entering its most dangerous phase yet?]]></title>
-<link>https://www.firstpost.com/explainers/china-japan-taiwan-tensions-escalation-analysis-13959186.html</link>
-<pubDate>Fri, 12 Dec 2025 12:12:12 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How Trump’s targeting of Venezuela and South Africa appears supremacist]]></title>
 <link>https://www.firstpost.com/opinion/trump-white-supremacy-venezuela-south-africa-13959174.html</link>
 <pubDate>Fri, 12 Dec 2025 12:27:13 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[This year’s elections in Tanzania have pushed the country into its most volatile political crisis in decades, exposing the limits of patronage politics amid a fierce youth-led uprising]]></description>
 </item>
 <item>
+<title><![CDATA[How India’s position in America’s strategic calculus remains crucial but recalibrated]]></title>
+<link>https://www.firstpost.com/opinion/india-us-strategic-reset-indo-pacific-13959411.html</link>
+<pubDate>Sat, 13 Dec 2025 08:16:50 -0000</pubDate>
+<description><![CDATA[The latest US National Security Strategy retains India as an important Indo-Pacific partner—but the language today is more functional than visionary]]></description>
+</item>
+<item>
 <title><![CDATA[How lessons from 1971 war can shape India’s whole-of-nation security doctrine]]></title>
 <link>https://www.firstpost.com/opinion/how-lessons-from-1971-war-can-shape-indias-whole-of-nation-security-doctrine-13958905.html</link>
 <pubDate>Thu, 11 Dec 2025 15:15:48 -0000</pubDate>
 <description><![CDATA[The lessons of the India-Pakistan war of 1971 should guide India’s collective approach to national security, uniting government, military and society to address the security challenges of today and tomorrow]]></description>
-</item>
-<item>
-<title><![CDATA[Dhaka’s dangerous drift: How Yunus’s power play has empowered Islamists and external actors]]></title>
-<link>https://www.firstpost.com/opinion/dhakas-dangerous-drift-how-yunuss-power-play-has-empowered-islamists-and-external-actors-13958882.html</link>
-<pubDate>Fri, 12 Dec 2025 06:06:47 -0000</pubDate>
-<description><![CDATA[Today, Bangladesh stands at a crossroads, marred by internal turbulence and major powers rivalry, with the future rather unpredictable.]]></description>
 </item>
 </channel></rss>
