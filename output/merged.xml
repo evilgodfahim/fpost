@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 17 Dec 2025 08:20:05 GMT</lastBuildDate>
+<lastBuildDate>Wed, 17 Dec 2025 09:20:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Why has oil become the flashpoint in Trump’s campaign against Venezuela?]]></title>
+<link>https://www.firstpost.com/explainers/why-oil-is-at-the-centre-of-trump-campaign-against-venezuela-explained-13960538.html</link>
+<pubDate>Wed, 17 Dec 2025 09:20:25 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Bondi Beach attack: Does gunman Sajid Akram have family in Hyderabad?]]></title>
 <link>https://www.firstpost.com/explainers/bondi-beach-attack-gunman-sajid-akram-family-hyderabad-13960554.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From Trump’s ‘alcoholic personality’ to Musk’s ‘avowed’ drug use: Bombshells from Susie Wiles’ interview]]></title>
-<link>https://www.firstpost.com/explainers/susie-wiles-interview-trump-second-term-big-takeaways-vanity-fair-13960507.html</link>
-<pubDate>Wed, 17 Dec 2025 06:06:33 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bondi shooting: The ‘liberal’ world must smell the coffee and stop sugarcoating Islamist terror]]></title>
 <link>https://www.firstpost.com/opinion/bondi-shooting-global-response-liberal-world-fails-to-confront-islamist-terror-13960299.html</link>
 <pubDate>Wed, 17 Dec 2025 08:20:04 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[In the new US National Security Strategy, India’s strategic weight has undergone a drastic erosion]]></description>
 </item>
 <item>
+<title><![CDATA[India’s strategic military environment in 2025: Managing power in an age of hybrid war]]></title>
+<link>https://www.firstpost.com/opinion/indias-strategic-military-environment-in-2025-managing-power-in-an-age-of-hybrid-war-13960587.html</link>
+<pubDate>Wed, 17 Dec 2025 09:20:26 -0000</pubDate>
+<description><![CDATA[India’s military environment in 2025 reaffirmed a fundamental truth: future conflicts will be ambiguous, politically constrained, and psychologically intense. Success will not always look dramatic.]]></description>
+</item>
+<item>
 <title><![CDATA[PM Modi in Amman: Exploring the multifaceted significance of India-Jordan ties]]></title>
 <link>https://www.firstpost.com/opinion/pm-modi-visit-amman-india-jordan-ties-13959996.html</link>
 <pubDate>Mon, 15 Dec 2025 15:17:56 -0000</pubDate>
 <description><![CDATA[Jordan provides a rare case of political stability in the region, where the shifting sands can cause ripples with profound ramifications]]></description>
-</item>
-<item>
-<title><![CDATA[How Bhutan has a special place in India’s neighbourhood first policy]]></title>
-<link>https://www.firstpost.com/opinion/india-bhutan-neighbourhood-first-policy-modis-2025-visit-13959983.html</link>
-<pubDate>Mon, 15 Dec 2025 13:35:21 -0000</pubDate>
-<description><![CDATA[Bhutan stands as the clearest expression of Neighbourhood First—where India’s strategy is measured not in statements, but in shared power grids, seamless connectivity, sustained financing and deep-rooted trust]]></description>
 </item>
 </channel></rss>
