@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 20 Dec 2025 09:12:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 20 Dec 2025 10:12:52 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Bill Clinton in a pool, little on Trump: What the latest release of Epstein files reveals]]></title>
+<link>https://www.firstpost.com/explainers/bill-clinton-pool-donald-trump-doj-release-epstein-files-13961482.html</link>
+<pubDate>Sat, 20 Dec 2025 10:12:51 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: How Trump’s H-1B crackdown has put Indians in a limbo]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-us-donald-trump-h-1b-crackdown-indians-impact-13961358.html</link>
@@ -35,16 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Bilawal Bhutto’s entry at Pak event to ‘Dhurandhar’ song has become a mocking point]]></title>
-<link>https://www.firstpost.com/explainers/bilawal-bhutto-event-dhurandhar-song-pakistan-film-ban-13961280.html</link>
-<pubDate>Fri, 19 Dec 2025 12:26:23 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How Inqilab Moncho’s Chittagong protest turned Osman Hadi’s death into an anti-India street weapon]]></title>
 <link>https://www.firstpost.com/opinion/how-inqilab-monchos-chittagong-protest-turned-osman-hadis-death-into-an-anti-india-street-weapon-13961501.html</link>
 <pubDate>Sat, 20 Dec 2025 08:16:47 -0000</pubDate>
 <description><![CDATA[What should have remained a domestic demand for justice was deliberately converted into a strategic provocation, redirecting public anger toward a foreign state without evidence and testing the limits of international diplomatic norms]]></description>
+</item>
+<item>
+<title><![CDATA[How the idea of ‘Core Five’ is a mirage in present-day geopolitics]]></title>
+<link>https://www.firstpost.com/opinion/how-core-five-c5-is-a-mirage-in-global-politics-13961524.html</link>
+<pubDate>Sat, 20 Dec 2025 10:12:52 -0000</pubDate>
+<description><![CDATA[The idea of Core Five—the US, China, Russia, India, and Japan—reflects a recurring temptation in periods of global flux: the belief that smaller clubs can substitute for inclusive governance]]></description>
 </item>
 <item>
 <title><![CDATA[Bangladesh at a crossroads: Between street unrest and a soft state]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/india-oman-relations-strategic-gulf-partnership-13961203.html</link>
 <pubDate>Fri, 19 Dec 2025 08:19:18 -0000</pubDate>
 <description><![CDATA[For India, Oman is a reliable gateway to the Gulf, devoid of the hyper-political baggage that often accompanies ties with larger regional powers]]></description>
-</item>
-<item>
-<title><![CDATA[The cost of moral evasion: How antisemitism and anti-India terror share the same justifications]]></title>
-<link>https://www.firstpost.com/opinion/the-cost-of-moral-evasion-how-antisemitism-and-anti-india-terror-share-the-same-justifications-13961039.html</link>
-<pubDate>Fri, 19 Dec 2025 08:04:18 -0000</pubDate>
-<description><![CDATA[If the West wishes to prevent future terror attacks, it must look beyond the individual attacker and interrogate the ecosystem that made such violence imaginable, defensible and ultimately executable]]></description>
 </item>
 </channel></rss>
