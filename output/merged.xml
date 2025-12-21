@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 21 Dec 2025 05:14:54 GMT</lastBuildDate>
+<lastBuildDate>Sun, 21 Dec 2025 06:19:54 GMT</lastBuildDate>
+<item>
+<title><![CDATA[History Today: When Pan Am Flight 103 exploded over a Scottish town, killing over 250]]></title>
+<link>https://www.firstpost.com/explainers/history-today-when-pan-am-flight-103-exploded-over-a-scottish-town-killing-over-250-13960671.html</link>
+<pubDate>Sun, 21 Dec 2025 06:19:53 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[‘A survival matter’: Why South Korea’s president wants to help fund hair loss treatment]]></title>
 <link>https://www.firstpost.com/explainers/south-korea-president-lee-jae-myung-hair-loss-treatment-national-health-insurance-scheme-13961562.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Europe went for a loan to help Ukraine instead of frozen Russian assets]]></title>
-<link>https://www.firstpost.com/explainers/why-europe-went-for-a-loan-to-help-ukraine-instead-of-frozen-russian-assets-13961451.html</link>
-<pubDate>Sat, 20 Dec 2025 04:19:01 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Why restraint is India’s best strategy against extremism in Bangladesh]]></title>
+<link>https://www.firstpost.com/opinion/india-bangladesh-extremism-strategic-restraint-13961488.html</link>
+<pubDate>Sun, 21 Dec 2025 06:19:54 -0000</pubDate>
+<description><![CDATA[By responding to extremism with openness, consistency, and strategic long-term view, India not only protects its interests but also underscores the contrast between responsible statecraft and performative radicalism]]></description>
 </item>
 <item>
 <title><![CDATA[How Inqilab Moncho’s Chittagong protest turned Osman Hadi’s death into an anti-India street weapon]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/bangladesh-extremist-turn-street-unrest-crisis-13961276.html</link>
 <pubDate>Fri, 19 Dec 2025 09:59:31 -0000</pubDate>
 <description><![CDATA[Pragmatism, not ideological escalation, is what enabled Bangladesh’s economic and diplomatic gains over the past decade. Abandoning that path in favour of emotive nationalism risks isolating the country regionally and undermining investor confidence domestically]]></description>
-</item>
-<item>
-<title><![CDATA[How PM Modi’s Ethiopia visit revitalised India’s Africa outreach and Global South cooperation]]></title>
-<link>https://www.firstpost.com/opinion/pm-modi-ethiopia-visit-india-africa-partnership-13961218.html</link>
-<pubDate>Fri, 19 Dec 2025 10:14:31 -0000</pubDate>
-<description><![CDATA[For India, the partnership with Ethiopia provides a trusted anchor in the Horn of Africa, a region marked by instability but also strategic opportunity]]></description>
 </item>
 </channel></rss>
