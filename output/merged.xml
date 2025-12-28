@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 28 Dec 2025 09:13:09 GMT</lastBuildDate>
+<lastBuildDate>Sun, 28 Dec 2025 10:13:15 GMT</lastBuildDate>
+<item>
+<title><![CDATA[This Week in Explainers: What does Tarique Rahman’s return mean for Bangladesh-India ties?]]></title>
+<link>https://www.firstpost.com/explainers/this-week-in-explainers-what-does-tarique-rahmans-return-mean-for-bangladesh-india-ties-13963017.html</link>
+<pubDate>Sun, 28 Dec 2025 10:13:14 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[History Today: How the Indian National Congress was founded]]></title>
 <link>https://www.firstpost.com/explainers/history-today-how-the-indian-national-congress-was-founded-13962420.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[This Week in Explainers: Why a free trade agreement with New Zealand is good news for India]]></title>
-<link>https://www.firstpost.com/explainers/this-week-in-explainers-why-a-free-trade-agreement-with-new-zealand-is-good-news-for-india-13963106.html</link>
-<pubDate>Sat, 27 Dec 2025 08:17:29 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[How AI is making the nuclear arms race 2.0 even more disruptive]]></title>
+<link>https://www.firstpost.com/opinion/how-ai-is-changing-the-nuclear-arms-race-13963452.html</link>
+<pubDate>Sun, 28 Dec 2025 10:13:14 -0000</pubDate>
+<description><![CDATA[The old mechanisms to prevent the spread of nuclear weapons are too antiquated and have lost their meaning with the coming of artificial intelligence into the nuclear arms race]]></description>
 </item>
 <item>
 <title><![CDATA[From Colombo to Dhaka: The political economy of unrest in India’s backyard]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/sheikh-hasina-death-sentence-imperfect-trial-dangerous-rhetoric-13963134.html</link>
 <pubDate>Fri, 26 Dec 2025 12:11:39 -0000</pubDate>
 <description><![CDATA[‘Mass atrocity’ is not a socially elastic phrase to be invoked when convenient; in a trial context, it is a legal classification that the state must prove beyond a reasonable doubt]]></description>
-</item>
-<item>
-<title><![CDATA[India and China look to improve ties, but Delhi’s cautious approach must continue in 2026]]></title>
-<link>https://www.firstpost.com/opinion/india-and-china-look-to-improve-ties-but-delhis-cautious-approach-must-continue-in-2026-13963125.html</link>
-<pubDate>Fri, 26 Dec 2025 12:26:39 -0000</pubDate>
-<description><![CDATA[India has adapted to a strategic environment in which stability is maintained through preparedness and balance rather than trust]]></description>
 </item>
 </channel></rss>
