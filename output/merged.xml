@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 10 Jan 2026 07:13:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Jan 2026 08:17:38 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Does the ICE agent who shot Minneapolis woman have immunity?]]></title>
+<link>https://www.firstpost.com/explainers/does-jonathan-ross-the-ice-agent-who-shot-minneapolis-woman-have-immunity-13967330.html</link>
+<pubDate>Sat, 10 Jan 2026 08:17:36 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: How US could force India to pay 500% tariff over Russian oil]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-us-india-500-tariff-russian-oil-13967205.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How China's stakes in Venezuelan oil complicate Trump's plan]]></title>
-<link>https://www.firstpost.com/explainers/trump-venezuela-oil-china-debt-stakes-maduro-capture-13967180.html</link>
-<pubDate>Fri, 09 Jan 2026 12:28:26 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Venezuela raid shows airpower drives dominance in modern conflicts]]></title>
 <link>https://www.firstpost.com/opinion/venezuela-raid-shows-airpower-drives-dominance-in-modern-conflicts-13967157.html</link>
 <pubDate>Sat, 10 Jan 2026 03:18:34 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[Donald Trump’s ‘madness’ threatens to push the world into a crisis rarely seen since World War II. But it does offer new openings for emerging powers long strangled by Western institutional lopsidedness, monopoly and hypocrisy]]></description>
 </item>
 <item>
+<title><![CDATA[US withdrawal from international organisations: Implications for global order]]></title>
+<link>https://www.firstpost.com/opinion/us-withdrawal-from-international-organisations-implications-for-global-order-13967385.html</link>
+<pubDate>Sat, 10 Jan 2026 08:17:37 -0000</pubDate>
+<description><![CDATA[Donald Trump’s policy is aimed at strengthening American military prowess, but withdrawing from international commitments in the name of saving money will undoubtedly dismantle the structures that sustained US soft power]]></description>
+</item>
+<item>
 <title><![CDATA[Disinformation, deepfakes, and Dhaka: Inside dangerous anti-India narrative in Bangladesh]]></title>
 <link>https://www.firstpost.com/opinion/disinformation-f-and-dhaka-inside-dangerous-anti-india-narrative-in-bangladesh-13966854.html</link>
 <pubDate>Thu, 08 Jan 2026 13:20:26 -0000</pubDate>
 <description><![CDATA[For the region, Bangladesh serves as a reminder – a bleak one – that in an age of weaponised information, truth is often the first casualty]]></description>
-</item>
-<item>
-<title><![CDATA[The Donroe doctrine: How Trump’s Venezuela strike redefines US policy]]></title>
-<link>https://www.firstpost.com/opinion/venezuela-raid-airpower-modern-warfare-13966840.html</link>
-<pubDate>Thu, 08 Jan 2026 13:35:26 -0000</pubDate>
-<description><![CDATA[Such actions replace a rules-based international order with one governed by power, increasing global mistrust and the long-term potential for conflict]]></description>
 </item>
 </channel></rss>
