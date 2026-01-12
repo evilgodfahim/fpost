@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 12:30:48 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 13:36:40 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Who will rule Iran if the regime falls?]]></title>
+<link>https://www.firstpost.com/explainers/who-will-rule-iran-if-the-regime-falls-13967972.html</link>
+<pubDate>Mon, 12 Jan 2026 13:36:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Timeline: How the Iran protests started and spread nationwide]]></title>
+<link>https://www.firstpost.com/explainers/iran-protests-timeline-start-spread-nationwide-13967944.html</link>
+<pubDate>Mon, 12 Jan 2026 13:21:39 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Why are Google founders saying bye to California, where they made their fortune?]]></title>
 <link>https://www.firstpost.com/explainers/google-founders-sergey-brin-larry-page-leaving-california-wealth-tax-13967903.html</link>
@@ -29,18 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What Donald Trump is doing to 'get rid' of Fed chief Jerome Powell]]></title>
-<link>https://www.firstpost.com/explainers/trump-jerome-powell-fed-subpoenas-interest-rates-us-economy-13967832.html</link>
-<pubDate>Mon, 12 Jan 2026 09:24:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[Are 16 satellites lost in space after Isro’s PSLV rocket faces glitch?]]></title>
-<link>https://www.firstpost.com/explainers/are-16-satellites-lost-in-space-after-isros-pslv-rocket-faces-glitch-13967879.html</link>
-<pubDate>Mon, 12 Jan 2026 09:09:40 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran at the brink: Is the Islamic Republic losing control?]]></title>
 <link>https://www.firstpost.com/opinion/iran-at-the-brink-is-the-islamic-republic-losing-control-13967889.html</link>
 <pubDate>Mon, 12 Jan 2026 11:13:54 -0000</pubDate>
@@ -59,6 +59,12 @@
 <description><![CDATA[As great powers retreat from multilateralism and redraw their spheres of influence, the United Nations is no longer shaping the world — it is merely reflecting it]]></description>
 </item>
 <item>
+<title><![CDATA[Ukraine to Venezuela: India’s geopolitical strategy amidst global turbulence]]></title>
+<link>https://www.firstpost.com/opinion/ukraine-to-venezuela-indias-geopolitical-strategy-amidst-global-turbulence-13967979.html</link>
+<pubDate>Mon, 12 Jan 2026 13:36:40 -0000</pubDate>
+<description><![CDATA[The world has moved from a predictable, albeit tense, Cold War bipolarity to a fluid, contested system defined by rising powers, intertwined economies, technological competition, and challenges to traditional state power]]></description>
+</item>
+<item>
 <title><![CDATA[Power, law and empire: Seismic implications of American military operation in Venezuela]]></title>
 <link>https://www.firstpost.com/opinion/power-law-and-empire-seismic-implications-of-american-military-operation-in-venezuela-13967754.html</link>
 <pubDate>Mon, 12 Jan 2026 04:43:01 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/america-exits-the-world-what-trumps-multilateral-retreat-means-for-india-13967748.html</link>
 <pubDate>Mon, 12 Jan 2026 04:28:01 -0000</pubDate>
 <description><![CDATA[The global architecture of cooperation is in flux, and the stakes for emerging powers like India are high]]></description>
-</item>
-<item>
-<title><![CDATA[Germany and India at 75: Significance of Chancellor Merz’s Delhi visit]]></title>
-<link>https://www.firstpost.com/opinion/germany-and-india-at-75-significance-of-chancellor-merzs-delhi-visit-ws-e-13967630.html</link>
-<pubDate>Sun, 11 Jan 2026 12:25:44 -0000</pubDate>
-<description><![CDATA[Irrespective of global turbulence and shifting geopolitics, the India-Germany relationship remains on a firm wicket and is likely to weather such storms despite vulnerabilities and uncertainties]]></description>
 </item>
 </channel></rss>
