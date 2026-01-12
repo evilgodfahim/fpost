@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 12 Jan 2026 14:18:21 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Jan 2026 15:17:50 GMT</lastBuildDate>
+<item>
+<title><![CDATA[US envoy Sergio Gor says India to be invited to join Pax Silica in Feb: What is this tech alliance?]]></title>
+<link>https://www.firstpost.com/explainers/us-envoy-sergio-gor-india-join-pax-silica-ai-tech-alliance-13967961.html</link>
+<pubDate>Mon, 12 Jan 2026 15:17:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Who will rule Iran if the regime falls?]]></title>
 <link>https://www.firstpost.com/explainers/who-will-rule-iran-if-the-regime-falls-13967972.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Why Hollywood stars wore ‘ICE Out’ and ‘Be Good’ pins at the Golden Globes]]></title>
-<link>https://www.firstpost.com/explainers/golden-globes-2026-hollywood-actors-ice-out-be-good-pins-protest-us-immigration-agents-renee-good-keith-porter-13967833.html</link>
-<pubDate>Mon, 12 Jan 2026 10:58:53 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran at the brink: Is the Islamic Republic losing control?]]></title>
 <link>https://www.firstpost.com/opinion/iran-at-the-brink-is-the-islamic-republic-losing-control-13967889.html</link>
 <pubDate>Mon, 12 Jan 2026 11:13:54 -0000</pubDate>
@@ -59,6 +59,12 @@
 <description><![CDATA[As great powers retreat from multilateralism and redraw their spheres of influence, the United Nations is no longer shaping the world — it is merely reflecting it]]></description>
 </item>
 <item>
+<title><![CDATA[Pakistan’s Gaza deception: How Gen Munir said yes, meant no, and fooled Trump]]></title>
+<link>https://www.firstpost.com/opinion/pakistans-gaza-deception-how-gen-munir-said-yes-meant-no-and-fooled-trump-13967989.html</link>
+<pubDate>Mon, 12 Jan 2026 15:17:50 -0000</pubDate>
+<description><![CDATA[Islamabad’s response to the Gaza peacekeeping proposal reveals a familiar pattern: Say yes to Washington, signal no at home, and let someone else take the blame]]></description>
+</item>
+<item>
 <title><![CDATA[Ukraine to Venezuela: India’s geopolitical strategy amidst global turbulence]]></title>
 <link>https://www.firstpost.com/opinion/ukraine-to-venezuela-indias-geopolitical-strategy-amidst-global-turbulence-13967979.html</link>
 <pubDate>Mon, 12 Jan 2026 13:36:40 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/power-law-and-empire-seismic-implications-of-american-military-operation-in-venezuela-13967754.html</link>
 <pubDate>Mon, 12 Jan 2026 04:43:01 -0000</pubDate>
 <description><![CDATA[If the United States, the self-proclaimed defender of international law, can bypass that law, then others will too]]></description>
-</item>
-<item>
-<title><![CDATA[America exits the world: What Trump’s multilateral retreat means for India]]></title>
-<link>https://www.firstpost.com/opinion/america-exits-the-world-what-trumps-multilateral-retreat-means-for-india-13967748.html</link>
-<pubDate>Mon, 12 Jan 2026 04:28:01 -0000</pubDate>
-<description><![CDATA[The global architecture of cooperation is in flux, and the stakes for emerging powers like India are high]]></description>
 </item>
 </channel></rss>
