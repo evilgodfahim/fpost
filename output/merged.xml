@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 13 Jan 2026 01:02:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Jan 2026 03:21:59 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Why Google has removed AI health summaries]]></title>
 <link>https://www.firstpost.com/explainers/why-google-has-removed-ai-health-summaries-13967995.html</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[As great powers retreat from multilateralism and redraw their spheres of influence, the United Nations is no longer shaping the world — it is merely reflecting it]]></description>
 </item>
 <item>
+<title><![CDATA[It’s not the ‘Don-Roe Doctrine’: Silly US interventionism validated Putin’s invasion and gave China a playbook]]></title>
+<link>https://www.firstpost.com/opinion/its-not-the-don-roe-doctrine-silly-us-interventionism-validated-putins-invasion-and-gave-china-a-playbook-13968046.html</link>
+<pubDate>Tue, 13 Jan 2026 03:21:58 -0000</pubDate>
+<description><![CDATA[Donald Trump is not reviving the empire so much as exposing its limits. The very need to assert hemispheric dominance so explicitly suggests that such dominance is no longer taken for granted]]></description>
+</item>
+<item>
 <title><![CDATA[Pakistan’s Gaza deception: How Gen Munir said yes, meant no, and fooled Trump]]></title>
 <link>https://www.firstpost.com/opinion/pakistans-gaza-deception-how-gen-munir-said-yes-meant-no-and-fooled-trump-13967989.html</link>
 <pubDate>Mon, 12 Jan 2026 15:17:50 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/ukraine-to-venezuela-indias-geopolitical-strategy-amidst-global-turbulence-13967979.html</link>
 <pubDate>Mon, 12 Jan 2026 13:36:40 -0000</pubDate>
 <description><![CDATA[The world has moved from a predictable, albeit tense, Cold War bipolarity to a fluid, contested system defined by rising powers, intertwined economies, technological competition, and challenges to traditional state power]]></description>
-</item>
-<item>
-<title><![CDATA[Power, law and empire: Seismic implications of American military operation in Venezuela]]></title>
-<link>https://www.firstpost.com/opinion/power-law-and-empire-seismic-implications-of-american-military-operation-in-venezuela-13967754.html</link>
-<pubDate>Mon, 12 Jan 2026 04:43:01 -0000</pubDate>
-<description><![CDATA[If the United States, the self-proclaimed defender of international law, can bypass that law, then others will too]]></description>
 </item>
 </channel></rss>
