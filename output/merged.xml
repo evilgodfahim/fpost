@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 14 Jan 2026 08:20:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 Jan 2026 09:21:31 GMT</lastBuildDate>
 <item>
 <title><![CDATA[The making of Islamic Nato: Will this bring Turkish arms, Pak nukes, and Saudi money together?]]></title>
 <link>https://www.firstpost.com/explainers/islamic-nato-turkey-pakistan-saudi-arabia-defence-alliance-13968489.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[India hosts 28th CSPOC: Strengthening parliamentary democracy, global cooperation in uncertain world]]></title>
+<link>https://www.firstpost.com/opinion/india-28th-cspoc-strengthening-democracy-global-cooperation-13968565.html</link>
+<pubDate>Wed, 14 Jan 2026 09:21:31 -0000</pubDate>
+<description><![CDATA[The Conference of Speakers and Presiding Officers of the Commonwealth has emerged as a unique institution that upholds parliamentary independence and is non-partisan, even as it derives much from the Westminster system and traditions, and underscores the neutrality and authority of speakers]]></description>
+</item>
+<item>
 <title><![CDATA[How German Chancellor Merz’s India visit carries a strategic message]]></title>
 <link>https://www.firstpost.com/opinion/merz-india-visit-germany-strategic-shift-asia-13968165.html</link>
 <pubDate>Wed, 14 Jan 2026 08:20:08 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/its-not-the-don-roe-doctrine-silly-us-interventionism-validated-putins-invasion-and-gave-china-a-playbook-13968046.html</link>
 <pubDate>Tue, 13 Jan 2026 03:21:58 -0000</pubDate>
 <description><![CDATA[Donald Trump is not reviving the empire so much as exposing its limits. The very need to assert hemispheric dominance so explicitly suggests that such dominance is no longer taken for granted]]></description>
-</item>
-<item>
-<title><![CDATA[Pakistan’s Gaza deception: How Gen Munir said yes, meant no, and fooled Trump]]></title>
-<link>https://www.firstpost.com/opinion/pakistans-gaza-deception-how-gen-munir-said-yes-meant-no-and-fooled-trump-13967989.html</link>
-<pubDate>Mon, 12 Jan 2026 15:17:50 -0000</pubDate>
-<description><![CDATA[Islamabad’s response to the Gaza peacekeeping proposal reveals a familiar pattern: Say yes to Washington, signal no at home, and let someone else take the blame]]></description>
 </item>
 </channel></rss>
