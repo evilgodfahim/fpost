@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 18 Jan 2026 11:10:47 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Jan 2026 12:25:13 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Sleeping less than 7 hours daily? You could live a shorter life]]></title>
+<link>https://www.firstpost.com/explainers/sleeping-less-than-7-hours-daily-you-could-live-a-shorter-life-13968661.html</link>
+<pubDate>Sun, 18 Jan 2026 12:25:12 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[ICE has led to anger and protests in the US. It is our Word of the Week]]></title>
 <link>https://www.firstpost.com/explainers/ice-has-led-to-anger-and-protests-in-the-us-it-is-our-word-of-the-week-13969339.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[India's richest civic body goes to the BJP. Why this matters]]></title>
-<link>https://www.firstpost.com/explainers/indias-richest-civic-body-goes-to-the-bjp-why-this-matters-13969436.html</link>
-<pubDate>Fri, 16 Jan 2026 15:16:07 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[How India-EU ties gain renewed relevance in a turbulent world]]></title>
+<link>https://www.firstpost.com/opinion/india-eu-ties-trade-defence-education-13969882.html</link>
+<pubDate>Sun, 18 Jan 2026 12:25:13 -0000</pubDate>
+<description><![CDATA[In a multipolar, interdependent world of constant global churn, India and Europe can maximise leverage by capitalising on each other’s strengths and growth potential]]></description>
 </item>
 <item>
 <title><![CDATA[In a world of ‘might is right’: Could Japan, South Korea go nuclear?]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/greenland-strategic-importance-arctic-geopolitics-13969679.html</link>
 <pubDate>Sat, 17 Jan 2026 12:09:42 -0000</pubDate>
 <description><![CDATA[To understand Greenland’s re-emergence, one must step away from transactional explanations and look instead at geography, military denial, and the logic of long-term national security planning]]></description>
-</item>
-<item>
-<title><![CDATA[Why investigation of Jerome Powell signals a deeper threat to US Fed]]></title>
-<link>https://www.firstpost.com/opinion/why-investigation-of-jerome-powell-signals-a-deeper-threat-to-us-fed-13969412.html</link>
-<pubDate>Fri, 16 Jan 2026 15:16:08 -0000</pubDate>
-<description><![CDATA[Beyond economics, the episode of the criminal investigation against the Federal Reserve Chair is revealing of contemporary American politics. It highlights the erosion of informal institutional norms that have historically complemented formal law]]></description>
 </item>
 </channel></rss>
