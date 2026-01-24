@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 24 Jan 2026 11:11:26 GMT</lastBuildDate>
+<lastBuildDate>Sat, 24 Jan 2026 12:25:36 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What’s the penguin meme that White House has posted on Greenland?]]></title>
+<link>https://www.firstpost.com/explainers/whats-the-penguin-meme-that-white-house-has-posted-on-greenland-13972031.html</link>
+<pubDate>Sat, 24 Jan 2026 12:25:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: Why the India-EU trade pact is a big deal]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-why-the-india-eu-trade-pact-is-a-big-deal-13971869.html</link>
@@ -35,16 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Keep calm and stock freezers: How Greenland readies for a crisis]]></title>
-<link>https://www.firstpost.com/explainers/keep-calm-and-stock-freezers-how-greenland-readies-for-a-crisis-13971836.html</link>
-<pubDate>Fri, 23 Jan 2026 13:21:56 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How Trump’s Gaza Peace Board mocks the UN]]></title>
 <link>https://www.firstpost.com/opinion/trump-board-of-peace-mocks-un-13972117.html</link>
 <pubDate>Sat, 24 Jan 2026 10:13:54 -0000</pubDate>
 <description><![CDATA[Donald Trump's Board of Peace will function more like an imperial court than a multilateral diplomatic body. While Trump said that the board would work ‘in conjunction’ with the UN, critics view it as a US-led rival to the Security Council]]></description>
+</item>
+<item>
+<title><![CDATA[How US is ‘rediscovering’ Japan to check China]]></title>
+<link>https://www.firstpost.com/opinion/us-rediscovering-japan-to-check-china-13972143.html</link>
+<pubDate>Sat, 24 Jan 2026 12:25:36 -0000</pubDate>
+<description><![CDATA[The US is ‘rediscovering’ Japan to pit it against its ancient enemy: China, which has not forgotten what Japan did to it in the 1940s]]></description>
 </item>
 <item>
 <title><![CDATA[US Sutra | Dealing with Trump: What India must and must not do]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/why-india-eu-trade-pact-is-mother-of-all-deals-13971694.html</link>
 <pubDate>Fri, 23 Jan 2026 11:14:17 -0000</pubDate>
 <description><![CDATA[Once the EU-India free trade agreement becomes a reality, the Americans will be keen to proceed with the India-US interim trade deal at the earliest too]]></description>
-</item>
-<item>
-<title><![CDATA[How chaos came to Trump many certainties in the world]]></title>
-<link>https://www.firstpost.com/opinion/madman-diplomacy-trump-didnt-break-the-system-he-exposed-it-13971477.html</link>
-<pubDate>Fri, 23 Jan 2026 10:59:17 -0000</pubDate>
-<description><![CDATA[Donald Trump did not invent the chaotic style of leadership. But he dragged it back into the open, platformed it, stripped it of its subtlety, amplified it through social media, and made it the official gospel of the most powerful nation-state in the world]]></description>
 </item>
 </channel></rss>
