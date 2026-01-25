@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 25 Jan 2026 11:11:12 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Jan 2026 12:27:00 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Explained: From princes to President, the tradition of 21-gun salute at R-Day parade]]></title>
+<link>https://www.firstpost.com/explainers/explained-from-princes-to-president-the-tradition-of-21-gun-salute-at-r-day-parade-13971347.html</link>
+<pubDate>Sun, 25 Jan 2026 12:26:59 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[The Word of the Week is Davos. Trump, Carney, Macron tell us why]]></title>
 <link>https://www.firstpost.com/explainers/the-word-of-the-week-is-davos-trump-carney-macron-tell-us-why-13971829.html</link>
@@ -35,16 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[This Week in Explainers: Why the India-EU trade pact is a big deal]]></title>
-<link>https://www.firstpost.com/explainers/this-week-in-explainers-why-the-india-eu-trade-pact-is-a-big-deal-13971869.html</link>
-<pubDate>Sat, 24 Jan 2026 08:17:44 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
-<title><![CDATA[How India-Israel ties go far beyond Trump’s ‘Board of Peace’]]></title>
-<link>https://www.firstpost.com/opinion/india-israel-ties-beyond-trumps-board-of-peace-13972317.html</link>
-<pubDate>Sun, 25 Jan 2026 08:18:03 -0000</pubDate>
-<description><![CDATA[Neither the Gaza conflict nor any externally driven peace architecture alters the foundational logic of India-Israel cooperation, which rests on capability, reliability, and shared security experiences rather than ideological alignment]]></description>
+<title><![CDATA[India-EU trade deal: Europe’s bet to hedge a Trumpian world order]]></title>
+<link>https://www.firstpost.com/opinion/india-eu-trade-deal-europe-strategic-partnership-13972351.html</link>
+<pubDate>Sun, 25 Jan 2026 12:27:00 -0000</pubDate>
+<description><![CDATA[Europe’s response to a rattled global order and the fracture in transatlantic ties has been clear, coherent, and deliberate: diversify risk, deepen partnerships. India sits at the apex of that strategy]]></description>
 </item>
 <item>
 <title><![CDATA[How Yunus is locking Bangladesh into a Sino-Pakistani power trap]]></title>
@@ -53,16 +53,16 @@
 <description><![CDATA[Bangladesh risks becoming another case study – a nation that traded long-term sovereignty for short-term political consolidation. The Sino-Pakistani axis does not merely sell weapons or build dams; it exports a model of control, leverage, and quiet coercion]]></description>
 </item>
 <item>
+<title><![CDATA[Discovering Rann: Festivals, heritage and cultural treasures]]></title>
+<link>https://www.firstpost.com/opinion/discovering-rann-festivals-heritage-and-cultural-treasures-13972359.html</link>
+<pubDate>Sun, 25 Jan 2026 12:12:00 -0000</pubDate>
+<description><![CDATA[There is no better time of the year to visit Gujarat’s Rann of Kutch than in winter, with the surrounding places offering a rich blend of history, culture and fun]]></description>
+</item>
+<item>
 <title><![CDATA[How Trumpian disorder is all about a new world order]]></title>
 <link>https://www.firstpost.com/opinion/how-trumpian-disorder-is-all-about-a-new-world-order-13972068.html</link>
 <pubDate>Sun, 25 Jan 2026 08:03:03 -0000</pubDate>
 <description><![CDATA[Donald Trump is preparing the US as a dominant core, not as a constrained leader. His destruction of the old order is not a retreat; it is a clear positioning of American dominance]]></description>
-</item>
-<item>
-<title><![CDATA[How Trump’s Gaza Peace Board mocks the UN]]></title>
-<link>https://www.firstpost.com/opinion/trump-board-of-peace-mocks-un-13972117.html</link>
-<pubDate>Sat, 24 Jan 2026 10:13:54 -0000</pubDate>
-<description><![CDATA[Donald Trump's Board of Peace will function more like an imperial court than a multilateral diplomatic body. While Trump said that the board would work ‘in conjunction’ with the UN, critics view it as a US-led rival to the Security Council]]></description>
 </item>
 <item>
 <title><![CDATA[How US is ‘rediscovering’ Japan to check China]]></title>
@@ -71,9 +71,9 @@
 <description><![CDATA[The US is ‘rediscovering’ Japan to pit it against its ancient enemy: China, which has not forgotten what Japan did to it in the 1940s]]></description>
 </item>
 <item>
-<title><![CDATA[US Sutra | Dealing with Trump: What India must and must not do]]></title>
-<link>https://www.firstpost.com/opinion/india-trump-diplomacy-strategic-unpredictability-13972042.html</link>
-<pubDate>Sat, 24 Jan 2026 08:17:45 -0000</pubDate>
-<description><![CDATA[As an emerging power with global ambitions, India must develop the analytical sophistication and diplomatic flexibility to engage effectively with leaders and systems that don’t conform to established patterns]]></description>
+<title><![CDATA[How Trump’s Gaza Peace Board mocks the UN]]></title>
+<link>https://www.firstpost.com/opinion/trump-board-of-peace-mocks-un-13972117.html</link>
+<pubDate>Sat, 24 Jan 2026 10:13:54 -0000</pubDate>
+<description><![CDATA[Donald Trump's Board of Peace will function more like an imperial court than a multilateral diplomatic body. While Trump said that the board would work ‘in conjunction’ with the UN, critics view it as a US-led rival to the Security Council]]></description>
 </item>
 </channel></rss>
