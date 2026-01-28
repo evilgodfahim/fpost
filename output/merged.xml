@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 28 Jan 2026 05:22:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Jan 2026 06:25:27 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Doomsday Clock moved closer to midnight than ever before: What does this indicate?]]></title>
+<link>https://www.firstpost.com/explainers/doomsday-clock-moved-closer-85-seconds-to-midnight-explained-13973225.html</link>
+<pubDate>Wed, 28 Jan 2026 06:25:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[UP, Maharashtra, Kerala and more… How these states stand to gain from India-EU trade deal]]></title>
 <link>https://www.firstpost.com/explainers/up-maharashtra-kerala-and-more-how-these-states-stand-to-gain-from-india-eu-trade-deal-ws-e-13973214.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Suella Braverman joins Reform UK. Is the party attracting too many Tories?]]></title>
-<link>https://www.firstpost.com/explainers/suella-braverman-joins-reform-uk-is-the-party-attracting-too-many-tories-13973110.html</link>
-<pubDate>Tue, 27 Jan 2026 15:22:55 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Gaza Peace Board: Why India must reject Trump’s offer]]></title>
 <link>https://www.firstpost.com/opinion/why-india-must-reject-trumps-board-of-peace-13973079.html</link>
 <pubDate>Tue, 27 Jan 2026 13:40:10 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[India is moving from adaptation to actively trying to influence the global agenda, using its unique position as a growing economic power and democratic voice for a multipolar, inclusive world order]]></description>
 </item>
 <item>
+<title><![CDATA[How Xi Jinping’s power grab spells global looming crisis]]></title>
+<link>https://www.firstpost.com/opinion/how-xi-jinpings-power-grab-spells-global-looming-crisis-13973300.html</link>
+<pubDate>Wed, 28 Jan 2026 06:25:26 -0000</pubDate>
+<description><![CDATA[As Xi Jinping amasses unprecedented power through relentless purges, China risks internal chaos and global instability in an era of one-man rule.]]></description>
+</item>
+<item>
 <title><![CDATA[The Oscars don’t reward cinema, they ratify the narrative of the moment]]></title>
 <link>https://www.firstpost.com/opinion/oscars-narrative-over-cinema-13972656.html</link>
 <pubDate>Mon, 26 Jan 2026 11:15:10 -0000</pubDate>
 <description><![CDATA[Awards function less as arbiters of cinema than as archivists of institutional mood. They tell us what the industry wished to reward in a particular year—what anxieties it sought to soothe, what narratives it needed to elevate, and what discomforts it chose to avoid]]></description>
-</item>
-<item>
-<title><![CDATA[Russia-Ukraine peace talks in Abu Dhabi show progress, but final deal remains contentious]]></title>
-<link>https://www.firstpost.com/opinion/abu-dhabi-russia-ukraine-peace-talks-progress-deadlock-13972586.html</link>
-<pubDate>Mon, 26 Jan 2026 12:30:52 -0000</pubDate>
-<description><![CDATA[For the first time since Russia’s 2022 invasion, the US, Russia and Ukraine have launched high-level trilateral talks in Abu Dhabi, set to continue on February 1, combining rare diplomatic momentum with entrenched deadlock on core issues]]></description>
 </item>
 </channel></rss>
