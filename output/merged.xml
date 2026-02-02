@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Mon, 02 Feb 2026 05:58:08 GMT</lastBuildDate>
+<lastBuildDate>Mon, 02 Feb 2026 07:02:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[What’s driving the deadly separatist violence in Pakistan’s Balochistan?]]></title>
+<link>https://www.firstpost.com/explainers/what-is-behind-balochistan-separatist-violence-in-pakistan-explained-13975052.html</link>
+<pubDate>Mon, 02 Feb 2026 07:02:22 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[From infrastructure to traders, the 10 big winners and losers of Budget 2026]]></title>
 <link>https://www.firstpost.com/explainers/union-budget-2026-winners-losers-infrastructure-traders-and-more-13975040.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[What’s in Nirmala Sitharaman’s Budget 2026 for the middle class?]]></title>
-<link>https://www.firstpost.com/explainers/whats-in-nirmala-sitharaman-budget-2026-for-middle-class-ws-e-13974933.html</link>
-<pubDate>Sun, 01 Feb 2026 15:16:54 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Beyond tariffs: How Budget 2026 re-engineers export competitiveness amid Trumpian disruptions]]></title>
+<link>https://www.firstpost.com/opinion/budget-2026-india-export-competitiveness-institutional-reforms-13974808.html</link>
+<pubDate>Mon, 02 Feb 2026 07:02:23 -0000</pubDate>
+<description><![CDATA[Budget 2026 internalises the logic of making our exports more competitive across the board]]></description>
 </item>
 <item>
 <title><![CDATA[India’s defence budget push signals preference for hard deterrence]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/union-budget-2026-growth-resilience-fiscal-discipline-13974533.html</link>
 <pubDate>Sat, 31 Jan 2026 13:35:42 -0000</pubDate>
 <description><![CDATA[Union Budget 2026 is expected to act as a unifying signal, aligning industrial policy with trade strategy, climate commitments with fiscal planning, and digital public infrastructure with social inclusion goals. It can reinforce confidence that India’s growth is not accidental or cyclical but designed]]></description>
-</item>
-<item>
-<title><![CDATA[The EU-India FTA opens doors for textiles, but compliance could be the key]]></title>
-<link>https://www.firstpost.com/opinion/eu-india-fta-textiles-sustainability-compliance-13974515.html</link>
-<pubDate>Sat, 31 Jan 2026 10:58:20 -0000</pubDate>
-<description><![CDATA[The India–EU free trade pact will be judged not only by tariff lines and market size but by whether India’s textile supply chains can show cleaner water, safer work and lower emissions at scale]]></description>
 </item>
 </channel></rss>
