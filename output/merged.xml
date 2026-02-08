@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 08 Feb 2026 04:27:10 GMT</lastBuildDate>
+<lastBuildDate>Sun, 08 Feb 2026 05:56:15 GMT</lastBuildDate>
 <item>
 <title><![CDATA[60 years, £40 billion: The UK taxpayers' cost to revamp British Parliament. How does India compare?]]></title>
 <link>https://www.firstpost.com/explainers/british-parliament-revamp-60-years-costs-india-comparison-explained-13977285.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How PM Modi’s Malaysia visit levels up ties, expands cooperation across sectors]]></title>
+<link>https://www.firstpost.com/opinion/pm-modi-malaysia-visit-strengthens-india-ties-13977233.html</link>
+<pubDate>Sun, 08 Feb 2026 05:56:15 -0000</pubDate>
+<description><![CDATA[As Southeast Asia becomes increasingly contested by the superpowers, the regional majors are looking for collaboration with a benign power, as well as significant business and security opportunities]]></description>
+</item>
+<item>
 <title><![CDATA[Talking to an arsonist isn’t diplomacy: The fatal flaw in Tharoor’s Pakistan policy]]></title>
 <link>https://www.firstpost.com/opinion/talking-to-pakistan-is-not-diplomacy-shashi-tharoor-india-pakistan-13977209.html</link>
 <pubDate>Sat, 07 Feb 2026 09:22:39 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/saving-the-dollar-trump-india-trade-deal-13976950.html</link>
 <pubDate>Sat, 07 Feb 2026 07:25:49 -0000</pubDate>
 <description><![CDATA[Why Trump did the deal with India may have nothing to do with agriculture or Russian oil, and everything to do with the dollar]]></description>
-</item>
-<item>
-<title><![CDATA[How US’ Pax Silica is India’s golden opportunity]]></title>
-<link>https://www.firstpost.com/opinion/us-pax-silica-india-critical-minerals-opportunity-13976928.html</link>
-<pubDate>Fri, 06 Feb 2026 11:27:08 -0000</pubDate>
-<description><![CDATA[The February 4 US-organised ministerial on critical minerals was less an endpoint than a beginning. For India, the participation reinforces its ambition to emerge as a key node in global technology and resource networks]]></description>
 </item>
 </channel></rss>
