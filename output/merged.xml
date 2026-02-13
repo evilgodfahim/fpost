@@ -3,7 +3,19 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 13 Feb 2026 08:33:18 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Feb 2026 09:35:26 GMT</lastBuildDate>
+<item>
+<title><![CDATA[IT stocks continue to fall: Should you sell or hold on to the shares?]]></title>
+<link>https://www.firstpost.com/explainers/it-stocks-continue-to-fall-should-you-sell-or-hold-13979391.html</link>
+<pubDate>Fri, 13 Feb 2026 09:35:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[BNP returns to power after 15 years: What changes now for Bangladesh?]]></title>
+<link>https://www.firstpost.com/explainers/bnp-win-bangladesh-election-tarique-rahman-promises-impact-explained-13979361.html</link>
+<pubDate>Fri, 13 Feb 2026 09:20:26 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Seva Teerth: How PM Modi’s new office stands apart from South Block]]></title>
 <link>https://www.firstpost.com/explainers/seva-teerth-inauguration-pm-narendra-modi-pmo-office-south-block-13979362.html</link>
@@ -29,16 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA['Wrecking-ball politics': A guide to what's at stake at the 62nd Munich Security Conference 2026]]></title>
-<link>https://www.firstpost.com/explainers/munich-security-conference-2026-report-what-to-expect-13979087.html</link>
-<pubDate>Fri, 13 Feb 2026 05:53:58 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[How Islamists are the real winners in Bangladesh]]></title>
+<link>https://www.firstpost.com/opinion/bangladesh-2026-elections-jamaat-hefazat-islamist-politics-13979417.html</link>
+<pubDate>Fri, 13 Feb 2026 09:35:26 -0000</pubDate>
+<description><![CDATA[The Bangladesh Nationalist Party may have won the 2026 election, but with the Jamaat rising to take the principal opposition position, the real victory has been for the Islamists]]></description>
 </item>
 <item>
-<title><![CDATA[Bangladesh says yes to national referendum on constitutional reforms. What changes?]]></title>
-<link>https://www.firstpost.com/explainers/bangladesh-referendum-2026-election-july-charter-constitutional-reforms-explained-13979308.html</link>
-<pubDate>Fri, 13 Feb 2026 05:38:58 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Dealing with China: Why trade and Kailash Yatra should be India’s opening move before LAC settlement]]></title>
+<link>https://www.firstpost.com/opinion/india-china-lac-trade-pilgrimage-cbm-13979426.html</link>
+<pubDate>Fri, 13 Feb 2026 09:20:26 -0000</pubDate>
+<description><![CDATA[A simpler first step for an India-China reset could be to reopen the frontiers as they were in the 1950s, particularly for trade and the Kailash-Manasarovar pilgrimage, following the centuries-old tradition]]></description>
 </item>
 <item>
 <title><![CDATA[PM Modi’s Kuala Lumpur visit: India’s ties with Malaysia enter a comprehensive strategic phase]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/journalisms-business-model-is-broken-lessons-from-washington-post-layoffs-13978724.html</link>
 <pubDate>Thu, 12 Feb 2026 09:39:52 -0000</pubDate>
 <description><![CDATA[Journalism has survived many crises, but today’s challenge is different because it is built into the economics of the industry itself]]></description>
-</item>
-<item>
-<title><![CDATA[From Berbera to Bab el-Mandeb: Enter the New Great Game in the Horn of Africa]]></title>
-<link>https://www.firstpost.com/opinion/from-berbera-to-bab-el-mandeb-enter-the-new-great-game-in-the-horn-of-africa-13978711.html</link>
-<pubDate>Wed, 11 Feb 2026 12:48:28 -0000</pubDate>
-<description><![CDATA[As Somaliland enters the diplomatic spotlight, the Horn of Africa is fast becoming the epicentre of a new great-power contest over the Red Sea and global trade routes]]></description>
-</item>
-<item>
-<title><![CDATA[How Jamaat breaks free of BNP’s shadow to emerge as a power centre in Bangladesh polls]]></title>
-<link>https://www.firstpost.com/opinion/how-jamaat-breaks-free-of-bnps-shadow-to-emerge-as-a-power-centre-in-bangladesh-polls-13978592.html</link>
-<pubDate>Wed, 11 Feb 2026 14:10:59 -0000</pubDate>
-<description><![CDATA[The Bangladesh Jamaat-e-Islami leads an 11-party alliance, formalised in late 2025, bringing together traditional Islamist forces like Bangladesh Khelafat Majlis and Nezame-e-Islam, as well as an apparently secular force in the form of the National Citizen Party]]></description>
 </item>
 </channel></rss>
