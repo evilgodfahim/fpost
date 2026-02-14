@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Feb 2026 14:19:18 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Feb 2026 15:17:26 GMT</lastBuildDate>
 <item>
 <title><![CDATA[India turns highway into runway for emergency landing near China border. Why this matters]]></title>
 <link>https://www.firstpost.com/explainers/india-turns-highway-into-runway-for-emergency-landing-near-china-border-why-this-matters-13979759.html</link>
@@ -59,6 +59,12 @@
 <description><![CDATA[The verdict is not a triumph of the Bangladesh Nationalist Party alone. It is a collective signal that governance matters more than agitation, and that radical rhetoric does not substitute for administrative competence]]></description>
 </item>
 <item>
+<title><![CDATA[When graffiti becomes history: Indian imprints in the land of Pharaohs and beyond]]></title>
+<link>https://www.firstpost.com/opinion/indian-graffiti-egypt-pharaohs-ancient-history-13979773.html</link>
+<pubDate>Sat, 14 Feb 2026 15:17:26 -0000</pubDate>
+<description><![CDATA[While ancient Indian graffiti in Egypt may be in the news right now, historical graffiti are not rare either in India or elsewhere in the world]]></description>
+</item>
+<item>
 <title><![CDATA[How Saudi Arabia’s embrace of ‘Axis of Ikhwan’ shatters the IMEC dream]]></title>
 <link>https://www.firstpost.com/opinion/india-middle-east-economic-corridor-imec-saudi-obstacle-13979445.html</link>
 <pubDate>Fri, 13 Feb 2026 11:25:13 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/india-china-lac-trade-pilgrimage-cbm-13979426.html</link>
 <pubDate>Fri, 13 Feb 2026 09:20:26 -0000</pubDate>
 <description><![CDATA[A simpler first step for an India-China reset could be to reopen the frontiers as they were in the 1950s, particularly for trade and the Kailash-Manasarovar pilgrimage, following the centuries-old tradition]]></description>
-</item>
-<item>
-<title><![CDATA[How Islamists are the real winners in Bangladesh]]></title>
-<link>https://www.firstpost.com/opinion/bangladesh-2026-elections-jamaat-hefazat-islamist-politics-13979417.html</link>
-<pubDate>Fri, 13 Feb 2026 09:35:26 -0000</pubDate>
-<description><![CDATA[The Bangladesh Nationalist Party may have won the 2026 election, but with the Jamaat rising to take the principal opposition position, the real victory has been for the Islamists]]></description>
 </item>
 </channel></rss>
