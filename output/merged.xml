@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Feb 2026 10:18:25 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Feb 2026 11:16:17 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Feeling low? Don’t feel like working? Opt for a soft off day]]></title>
+<link>https://www.firstpost.com/lifestyle/feeling-low-dont-feel-like-working-opt-for-a-soft-off-day-13977848.html</link>
+<pubDate>Sun, 15 Feb 2026 11:16:16 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Super Bowl is our ‘Word of the Week’ courtesy of Bad Bunny]]></title>
 <link>https://www.firstpost.com/explainers/word-of-the-week-super-bowl-bad-bunny-13979529.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who is Nikhil Gupta, who has pleaded guilty in the Pannun assassination plot?]]></title>
-<link>https://www.firstpost.com/explainers/who-is-nikhil-gupta-who-has-pleaded-guilty-in-the-pannun-assassination-plot-13979710.html</link>
-<pubDate>Sat, 14 Feb 2026 09:23:00 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Bangladesh polls: Tarique Rahman’s resounding victory comes with a crown of thorns]]></title>
 <link>https://www.firstpost.com/opinion/bangladesh-polls-tarique-rahman-victory-challenges-13979730.html</link>
 <pubDate>Sun, 15 Feb 2026 09:23:44 -0000</pubDate>
@@ -59,6 +59,12 @@
 <description><![CDATA[The US president has stated that reaching a diplomatic deal with Iran is his ‘preference’]]></description>
 </item>
 <item>
+<title><![CDATA[How China’s demographic debacle serves as a lesson for India]]></title>
+<link>https://www.firstpost.com/opinion/china-demographic-debacle-lesson-for-india-13980033.html</link>
+<pubDate>Sun, 15 Feb 2026 11:16:17 -0000</pubDate>
+<description><![CDATA[India’s choice to avoid coercion and respect women’s reproductive freedom not only preserves social stability but also leverages the natural benefits of an educated population]]></description>
+</item>
+<item>
 <title><![CDATA[Exploring Bareilly: From Mahabharata legends to Ahichchhatra ruins]]></title>
 <link>https://www.firstpost.com/opinion/bareilly-mahabharata-heritage-ahichchhatra-tourism-13979988.html</link>
 <pubDate>Sun, 15 Feb 2026 09:08:44 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/indian-graffiti-egypt-pharaohs-ancient-history-13979773.html</link>
 <pubDate>Sat, 14 Feb 2026 15:17:26 -0000</pubDate>
 <description><![CDATA[While ancient Indian graffiti in Egypt may be in the news right now, historical graffiti are not rare either in India or elsewhere in the world]]></description>
-</item>
-<item>
-<title><![CDATA[How Saudi Arabia’s embrace of ‘Axis of Ikhwan’ shatters the IMEC dream]]></title>
-<link>https://www.firstpost.com/opinion/india-middle-east-economic-corridor-imec-saudi-obstacle-13979445.html</link>
-<pubDate>Fri, 13 Feb 2026 11:25:13 -0000</pubDate>
-<description><![CDATA[Mohammed  Bin Salman might keep the illusion of participation open—all the better to play into the wishful thinking of the West that does not want to acknowledge the loss of Saudi Arabia—but India should be under no illusion]]></description>
 </item>
 </channel></rss>
