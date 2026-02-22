@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 22 Feb 2026 12:30:32 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Feb 2026 13:38:05 GMT</lastBuildDate>
+<item>
+<title><![CDATA[A ‘smart underwear’ to track farts. Why are scientists so interested in flatulence?]]></title>
+<link>https://www.firstpost.com/explainers/a-smart-underwear-to-track-farts-why-are-scientists-so-interested-in-flatulence-13981275.html</link>
+<pubDate>Sun, 22 Feb 2026 13:38:04 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Robodogs is our Word of the Week: The innovation that came to bite Indian university at AI summit]]></title>
 <link>https://www.firstpost.com/explainers/robodogs-word-of-the-week-the-innovation-that-came-to-bite-galgotias-university-at-ai-summit-13981989.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Who will get the $175 billion in refunds after US SC tariff ruling? Indian exporters?]]></title>
-<link>https://www.firstpost.com/explainers/us-supreme-court-donald-trump-tariff-refunds-importers-13982211.html</link>
-<pubDate>Sat, 21 Feb 2026 08:20:51 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How AI is reshaping modern warfare — and why India must compete]]></title>
 <link>https://www.firstpost.com/opinion/how-ai-is-reshaping-modern-warfare-india-13982218.html</link>
 <pubDate>Sun, 22 Feb 2026 09:22:54 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[As India grows more prosperous and urban comfort becomes routine, crises beyond our borders risk being reduced to headlines and hashtags. Yet Bangladesh’s political upheaval is not a distant spectacle. It is a cautionary tale about radicalisation, institutional fragility and the illusion of stability — one India must read carefully]]></description>
 </item>
 <item>
+<title><![CDATA[From AI data centres to your next smartphone: The memory bottleneck is everyone’s problem]]></title>
+<link>https://www.firstpost.com/opinion/from-ai-data-centres-to-your-next-smartphone-the-memory-bottleneck-is-everyones-problem-13982497.html</link>
+<pubDate>Sun, 22 Feb 2026 13:38:05 -0000</pubDate>
+<description><![CDATA[The memory shortage risks becoming a broader supply-chain problem. Unlike the pandemic-era chip crunch, which was driven largely by logistics and temporary disruptions, today’s shortage stems from a structural reorientation of manufacturing]]></description>
+</item>
+<item>
 <title><![CDATA[How Bangladesh is the real prisoner of geography]]></title>
 <link>https://www.firstpost.com/opinion/bangladesh-prisoner-of-geography-india-dependence-13982474.html</link>
 <pubDate>Sun, 22 Feb 2026 12:30:31 -0000</pubDate>
 <description><![CDATA[Bangladesh’s new leaders must confront the map. Put simply, no bridge bypasses India — Dhaka’s prosperity hinges on accommodation, not antagonism]]></description>
-</item>
-<item>
-<title><![CDATA[How the AI revolution needs a reliable critical mineral supply chain]]></title>
-<link>https://www.firstpost.com/opinion/india-ai-revolution-critical-mineral-supply-chain-13982465.html</link>
-<pubDate>Sun, 22 Feb 2026 10:45:59 -0000</pubDate>
-<description><![CDATA[As artificial intelligence models grow larger and computing requirements expand, demand for critical minerals will rise in parallel, creating a link between technological advancement and resource security. India needs to leverage its relations to build a reliable supply chain that supports an accessible, safe AI]]></description>
 </item>
 </channel></rss>
