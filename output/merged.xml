@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Tue, 03 Mar 2026 04:07:06 GMT</lastBuildDate>
+<lastBuildDate>Tue, 03 Mar 2026 05:42:14 GMT</lastBuildDate>
+<item>
+<title><![CDATA[How Europe has been drawn into Iran war as its military bases come under attack]]></title>
+<link>https://www.firstpost.com/explainers/how-europe-has-been-drawn-into-iran-war-as-its-military-bases-come-under-attack-13985637.html</link>
+<pubDate>Tue, 03 Mar 2026 05:42:13 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[US embassy in Riyadh attacked, stranded Indians return from UAE… The latest as Iran war enters Day 4]]></title>
 <link>https://www.firstpost.com/explainers/us-embassy-riyadh-attack-stranded-indians-dubai-abu-dhabi-iran-war-day-4-13985633.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[In Graphics: As Khamenei dies, who really holds power in Iran?]]></title>
-<link>https://www.firstpost.com/explainers/in-graphics-ayatollah-ali-khamenei-dies-iran-power-structure-war-13985531.html</link>
-<pubDate>Mon, 02 Mar 2026 15:34:35 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Khamenei gone, now comes the dangerous part: Why Trump must resist regime change trap in Iran]]></title>
+<link>https://www.firstpost.com/opinion/khamenei-dead-trump-iran-regime-change-trap-13985178.html</link>
+<pubDate>Tue, 03 Mar 2026 05:42:14 -0000</pubDate>
+<description><![CDATA[A more rational strategy for the US would be to keep its intervention limited to neutralising Iran’s nuclear capabilities, re-establishing deterrence and reopening diplomatic channels with those in authority in Tehran post-Khamenei’s death]]></description>
 </item>
 <item>
 <title><![CDATA[Is it the beginning of the end of the existing Iranian regime?]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/how-pm-modis-israel-visit-aligned-with-both-indias-interests-and-ideals-13985026.html</link>
 <pubDate>Sun, 01 Mar 2026 12:30:05 -0000</pubDate>
 <description><![CDATA[In an era of unreliable allies, shifting power architectures, and an increasingly fragmented global order, India is forging relationships that serve its interests and its ideals. This isn't a contradiction; it's diplomatic sophistication]]></description>
-</item>
-<item>
-<title><![CDATA[How Carney’s visit has revived strategic convergence in Indo-Canadian ties]]></title>
-<link>https://www.firstpost.com/opinion/india-canada-relations-mark-carney-india-visit-strategic-convergence-2025-13985015.html</link>
-<pubDate>Sun, 01 Mar 2026 10:17:03 -0000</pubDate>
-<description><![CDATA[As both India and Canada share numerous commonalities and convergences on global, regional and bilateral issues of concern, there is significant scope for consolidation and enhanced synergy in their ties beyond occasional strains]]></description>
 </item>
 </channel></rss>
