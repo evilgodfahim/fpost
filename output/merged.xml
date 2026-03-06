@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Fri, 06 Mar 2026 12:35:40 GMT</lastBuildDate>
+<lastBuildDate>Fri, 06 Mar 2026 13:48:30 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Two Sukhoi pilots killed in Assam crash. What do we know about them?]]></title>
+<link>https://www.firstpost.com/explainers/what-we-know-about-sukhoi-pilots-squadron-leader-anuj-flight-lieutenant-purvesh-duragkar-killed-in-the-assam-crash-13986923.html</link>
+<pubDate>Fri, 06 Mar 2026 13:48:30 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Did Iran use a painted helicopter decoy to mislead the IDF strike?]]></title>
 <link>https://www.firstpost.com/explainers/did-iran-use-a-painted-helicopter-decoy-to-mislead-the-idf-strike-13986875.html</link>
@@ -35,16 +41,22 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Blue Sparrow: The deadly Israeli missile that killed Iran’s Khamenei]]></title>
-<link>https://www.firstpost.com/explainers/blue-sparrow-israel-deadly-missile-ayatollah-ali-khamenei-death-13986822.html</link>
-<pubDate>Fri, 06 Mar 2026 09:14:45 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Nepal’s ballot revolt: Voters seek change after years of political musical chairs]]></title>
+<link>https://www.firstpost.com/opinion/nepal-poll-results-desire-for-change-rsp-rise-13986948.html</link>
+<pubDate>Fri, 06 Mar 2026 13:48:30 -0000</pubDate>
+<description><![CDATA[The mood across the country is to reject traditional parties such as the Nepali Congress, CPN UML and CPN Maoist for failing to curb corruption and deliver jobs and good governance — giving the 'Gen Z'-backed Rashtriya Swatantra Party a fair chance]]></description>
 </item>
 <item>
 <title><![CDATA[How China’s caution in the Iran conflict shows its military limits]]></title>
 <link>https://www.firstpost.com/opinion/how-chinas-caution-in-the-iran-conflict-shows-its-military-limits-13986883.html</link>
 <pubDate>Fri, 06 Mar 2026 11:22:02 -0000</pubDate>
 <description><![CDATA[The big question remains: Can an army with untested weapons, without generals and driven mainly by ideological instructions, win a war?]]></description>
+</item>
+<item>
+<title><![CDATA[How Pakistan’s West Asia ‘balancing act’ turned into diplomatic clownery]]></title>
+<link>https://www.firstpost.com/opinion/how-pakistans-west-asia-balancing-act-turned-into-diplomatic-clownery-13986955.html</link>
+<pubDate>Fri, 06 Mar 2026 13:33:30 -0000</pubDate>
+<description><![CDATA[Pakistan’s statements during the ongoing crisis in West Asia give the impression of a government that was somersaulting in its response to every new development, yet running like a headless chicken, completely directionless in its diplomatic consistency]]></description>
 </item>
 <item>
 <title><![CDATA[Beyond the Lines | West Asian crisis: Why Iran may hold the strategic advantage]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/nepal-polls-can-balen-shah-vanquish-the-old-guard-13986476.html</link>
 <pubDate>Thu, 05 Mar 2026 11:27:23 -0000</pubDate>
 <description><![CDATA[Balen Shah, a rapper-turned-Kathmandu mayor, has become a symbol of disruption]]></description>
-</item>
-<item>
-<title><![CDATA[Iran and the Indian art of strategic silence]]></title>
-<link>https://www.firstpost.com/opinion/iran-and-the-indian-art-of-strategic-silence-13986420.html</link>
-<pubDate>Thu, 05 Mar 2026 09:34:43 -0000</pubDate>
-<description><![CDATA[India sees that the Iranian regime is unpopular, and murderous, at home, and its strategic offerings are limited. In a difficult world, it acts accordingly]]></description>
-</item>
-<item>
-<title><![CDATA[Bangladesh at a crossroads: Why BNP must avoid Yunus’s mistakes]]></title>
-<link>https://www.firstpost.com/opinion/bangladesh-at-a-crossroads-why-bnp-must-avoid-yunuss-mistakes-13986199.html</link>
-<pubDate>Thu, 05 Mar 2026 11:12:23 -0000</pubDate>
-<description><![CDATA[The question before the BNP government is whether it will once again choose the path of indemnity and exclusion, or whether it will break from that legacy and allow the Constitution to prevail]]></description>
 </item>
 </channel></rss>
