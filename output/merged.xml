@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 10:15:41 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 11:13:19 GMT</lastBuildDate>
+<item>
+<title><![CDATA[One week after the Iran war, who is winning?]]></title>
+<link>https://www.firstpost.com/explainers/iran-war-one-week-israel-us-strikes-west-asia-13987081.html</link>
+<pubDate>Sat, 07 Mar 2026 11:13:19 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Who is Balen Shah, 35-year-old former rapper likely to be next Nepal PM?]]></title>
 <link>https://www.firstpost.com/explainers/nepal-election-results-balen-shah-prime-minister-gen-z-protests-13986781.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Did Iran use a painted helicopter decoy to mislead the IDF strike?]]></title>
-<link>https://www.firstpost.com/explainers/did-iran-use-a-painted-helicopter-decoy-to-mislead-the-idf-strike-13986875.html</link>
-<pubDate>Fri, 06 Mar 2026 12:35:40 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[Nepal polls: Gen Z wave sweeps old guard as Balen Shah heads for historic mandate]]></title>
+<link>https://www.firstpost.com/opinion/gen-z-wave-lifts-balen-shah-nepal-election-13987119.html</link>
+<pubDate>Sat, 07 Mar 2026 09:20:59 -0000</pubDate>
+<description><![CDATA[Balen Shah appears to be achieving what no Nepali leader has in three decades—securing a two-thirds majority. The real challenge now is delivering on promises and shedding Nepal’s 'basket case' image in South Asia]]></description>
 </item>
 <item>
 <title><![CDATA[India’s tightrope walk: Preserving strategic autonomy amid the Iran war]]></title>
@@ -59,21 +65,15 @@
 <description><![CDATA[The mood across the country is to reject traditional parties such as the Nepali Congress, CPN UML and CPN Maoist for failing to curb corruption and deliver jobs and good governance — giving the 'Gen Z'-backed Rashtriya Swatantra Party a fair chance]]></description>
 </item>
 <item>
-<title><![CDATA[How China’s caution in the Iran conflict shows its military limits]]></title>
-<link>https://www.firstpost.com/opinion/how-chinas-caution-in-the-iran-conflict-shows-its-military-limits-13986883.html</link>
-<pubDate>Fri, 06 Mar 2026 11:22:02 -0000</pubDate>
-<description><![CDATA[The big question remains: Can an army with untested weapons, without generals and driven mainly by ideological instructions, win a war?]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal polls: Gen Z wave sweeps old guard as Balen Shah heads for historic mandate]]></title>
-<link>https://www.firstpost.com/opinion/gen-z-wave-lifts-balen-shah-nepal-election-13987119.html</link>
-<pubDate>Sat, 07 Mar 2026 09:20:59 -0000</pubDate>
-<description><![CDATA[Balen Shah appears to be achieving what no Nepali leader has in three decades—securing a two-thirds majority. The real challenge now is delivering on promises and shedding Nepal’s 'basket case' image in South Asia]]></description>
-</item>
-<item>
 <title><![CDATA[How Pakistan’s West Asia ‘balancing act’ turned into diplomatic clownery]]></title>
 <link>https://www.firstpost.com/opinion/how-pakistans-west-asia-balancing-act-turned-into-diplomatic-clownery-13986955.html</link>
 <pubDate>Fri, 06 Mar 2026 13:33:30 -0000</pubDate>
 <description><![CDATA[Pakistan’s statements during the ongoing crisis in West Asia give the impression of a government that was somersaulting in its response to every new development, yet running like a headless chicken, completely directionless in its diplomatic consistency]]></description>
+</item>
+<item>
+<title><![CDATA[How China’s caution in the Iran conflict shows its military limits]]></title>
+<link>https://www.firstpost.com/opinion/how-chinas-caution-in-the-iran-conflict-shows-its-military-limits-13986883.html</link>
+<pubDate>Fri, 06 Mar 2026 11:22:02 -0000</pubDate>
+<description><![CDATA[The big question remains: Can an army with untested weapons, without generals and driven mainly by ideological instructions, win a war?]]></description>
 </item>
 </channel></rss>
