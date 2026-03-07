@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 12:29:13 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 13:33:19 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Karnataka to link excise duty to alcohol content: Will liquor get cheaper?]]></title>
 <link>https://www.firstpost.com/explainers/karnataka-excise-duty-alcohol-content-liquor-policy-13987137.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Trump’s contradictions on Iran may open a Pandora’s box in West Asia]]></title>
+<link>https://www.firstpost.com/opinion/trump-iran-strategy-pandoras-box-west-asia-13987090.html</link>
+<pubDate>Sat, 07 Mar 2026 13:33:19 -0000</pubDate>
+<description><![CDATA[The prospect of strife in Iran in which groups are pitted against one another and forces emerge which weaken central authority, will have grave consequences for the region. This may not immediately trouble either the US or Israel but can disrupt the flow of events in the Arabian Peninsula]]></description>
+</item>
+<item>
 <title><![CDATA[Nepal polls: Gen Z wave sweeps old guard as Balen Shah heads for historic mandate]]></title>
 <link>https://www.firstpost.com/opinion/gen-z-wave-lifts-balen-shah-nepal-election-13987119.html</link>
 <pubDate>Sat, 07 Mar 2026 09:20:59 -0000</pubDate>
@@ -59,21 +65,15 @@
 <description><![CDATA[The Israel-Iran conflict is not merely a tactical contest between two states pursuing strategic interests. It is a conflict embedded in theology, identity, and historical memory]]></description>
 </item>
 <item>
-<title><![CDATA[Nepal’s ballot revolt: Voters seek change after years of political musical chairs]]></title>
-<link>https://www.firstpost.com/opinion/nepal-poll-results-desire-for-change-rsp-rise-13986948.html</link>
-<pubDate>Fri, 06 Mar 2026 13:48:30 -0000</pubDate>
-<description><![CDATA[The mood across the country is to reject traditional parties such as the Nepali Congress, CPN UML and CPN Maoist for failing to curb corruption and deliver jobs and good governance — giving the 'Gen Z'-backed Rashtriya Swatantra Party a fair chance]]></description>
-</item>
-<item>
 <title><![CDATA[How Pakistan’s West Asia ‘balancing act’ turned into diplomatic clownery]]></title>
 <link>https://www.firstpost.com/opinion/how-pakistans-west-asia-balancing-act-turned-into-diplomatic-clownery-13986955.html</link>
 <pubDate>Fri, 06 Mar 2026 13:33:30 -0000</pubDate>
 <description><![CDATA[Pakistan’s statements during the ongoing crisis in West Asia give the impression of a government that was somersaulting in its response to every new development, yet running like a headless chicken, completely directionless in its diplomatic consistency]]></description>
 </item>
 <item>
-<title><![CDATA[How China’s caution in the Iran conflict shows its military limits]]></title>
-<link>https://www.firstpost.com/opinion/how-chinas-caution-in-the-iran-conflict-shows-its-military-limits-13986883.html</link>
-<pubDate>Fri, 06 Mar 2026 11:22:02 -0000</pubDate>
-<description><![CDATA[The big question remains: Can an army with untested weapons, without generals and driven mainly by ideological instructions, win a war?]]></description>
+<title><![CDATA[Nepal’s ballot revolt: Voters seek change after years of political musical chairs]]></title>
+<link>https://www.firstpost.com/opinion/nepal-poll-results-desire-for-change-rsp-rise-13986948.html</link>
+<pubDate>Fri, 06 Mar 2026 13:48:30 -0000</pubDate>
+<description><![CDATA[The mood across the country is to reject traditional parties such as the Nepali Congress, CPN UML and CPN Maoist for failing to curb corruption and deliver jobs and good governance — giving the 'Gen Z'-backed Rashtriya Swatantra Party a fair chance]]></description>
 </item>
 </channel></rss>
