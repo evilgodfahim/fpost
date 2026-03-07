@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 07 Mar 2026 07:22:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 08:20:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Who is Balen Shah, 35-year-old former rapper likely to be next Nepal PM?]]></title>
+<link>https://www.firstpost.com/explainers/nepal-election-results-balen-shah-prime-minister-gen-z-protests-13986781.html</link>
+<pubDate>Sat, 07 Mar 2026 08:20:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran war: Could Dubai run out of fresh food in 10 days?]]></title>
 <link>https://www.firstpost.com/explainers/iran-war-could-dubai-run-out-of-fresh-food-in-10-days-13986983.html</link>
@@ -35,10 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Karnataka wants to ban social media for under-16s. But is it feasible?]]></title>
-<link>https://www.firstpost.com/explainers/karnataka-wants-to-ban-social-media-for-under-16s-but-is-it-feasible-13986899.html</link>
-<pubDate>Fri, 06 Mar 2026 11:22:00 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[India’s tightrope walk: Preserving strategic autonomy amid the Iran war]]></title>
+<link>https://www.firstpost.com/opinion/india-strategic-autonomy-iran-war-impact-13987088.html</link>
+<pubDate>Sat, 07 Mar 2026 08:20:34 -0000</pubDate>
+<description><![CDATA[India must perform a delicate balancing act to maintain its critical defence and technology ties with Israel while simultaneously protecting its long-term energy and trade interests with Iran]]></description>
+</item>
+<item>
+<title><![CDATA[How Israel-Iran rivalry is turning from strategic to civilisational]]></title>
+<link>https://www.firstpost.com/opinion/israel-iran-rivalry-strategic-to-civilisational-13986770.html</link>
+<pubDate>Sat, 07 Mar 2026 08:05:34 -0000</pubDate>
+<description><![CDATA[The Israel-Iran conflict is not merely a tactical contest between two states pursuing strategic interests. It is a conflict embedded in theology, identity, and historical memory]]></description>
 </item>
 <item>
 <title><![CDATA[Nepal’s ballot revolt: Voters seek change after years of political musical chairs]]></title>
@@ -63,17 +75,5 @@
 <link>https://www.firstpost.com/opinion/beyond-the-lines-west-asian-crisis-why-iran-may-hold-the-strategic-advantage-13986519.html</link>
 <pubDate>Fri, 06 Mar 2026 09:29:46 -0000</pubDate>
 <description><![CDATA[Iran had been preparing for this day for years and has been banking on a vast landscape of mountains and valleys — terrain that allows assets to be relocated, camouflaged and secured]]></description>
-</item>
-<item>
-<title><![CDATA[Sinking of Iranian frigate off Sri Lankan waters an act of stunning recklessness by the Trump administration]]></title>
-<link>https://www.firstpost.com/opinion/sinking-of-iranian-frigate-off-sri-lankan-waters-an-act-of-stunning-recklessness-by-the-trump-administration-13986483.html</link>
-<pubDate>Thu, 05 Mar 2026 17:55:15 -0000</pubDate>
-<description><![CDATA[The sinking of IRIS Dena in international waters is the first acknowledged instance of an American submarine sinking an enemy surface vessel since World War II, and the first torpedo-based sinking of any warship since the 1982 Falklands War]]></description>
-</item>
-<item>
-<title><![CDATA[Nepal polls: Can Balen Shah vanquish the old guard?]]></title>
-<link>https://www.firstpost.com/opinion/nepal-polls-can-balen-shah-vanquish-the-old-guard-13986476.html</link>
-<pubDate>Thu, 05 Mar 2026 11:27:23 -0000</pubDate>
-<description><![CDATA[Balen Shah, a rapper-turned-Kathmandu mayor, has become a symbol of disruption]]></description>
 </item>
 </channel></rss>
