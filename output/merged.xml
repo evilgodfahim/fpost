@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Wed, 11 Mar 2026 06:40:44 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Mar 2026 07:37:56 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Explained: Where does India get its oil and gas from?]]></title>
+<link>https://www.firstpost.com/explainers/india-energy-imports-oil-gas-suppliers-hormuz-iran-war-russia-qatar-explained-13988259.html</link>
+<pubDate>Wed, 11 Mar 2026 07:37:55 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Why Iran’s plan to lay sea mines in the Strait of Hormuz could be disastrous]]></title>
 <link>https://www.firstpost.com/explainers/iran-sea-mines-strait-of-hormuz-dangers-us-military-13988243.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Is Iran activating sleeper cells across West after Khamenei’s killing?]]></title>
-<link>https://www.firstpost.com/explainers/iran-sleeper-cells-west-us-israel-supreme-leader-ayatollah-ali-khamenei-killing-13988157.html</link>
-<pubDate>Tue, 10 Mar 2026 15:38:01 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[Iran’s brinkmanship and Trump’s redline: How the crisis is reshaping India’s West Asia strategy]]></title>
 <link>https://www.firstpost.com/opinion/irans-brinkmanship-and-trumps-redline-how-the-crisis-is-reshaping-indias-west-asia-strategy-13988118.html</link>
 <pubDate>Tue, 10 Mar 2026 12:40:11 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[Moving past the tensions of the Justin Trudeau era, Carney’s India visit marks the end of a challenging period and the beginning of a more ambitious partnership]]></description>
 </item>
 <item>
+<title><![CDATA[How Iran war is Pakistan’s worst strategic nightmare]]></title>
+<link>https://www.firstpost.com/opinion/how-iran-war-is-pakistans-worst-strategic-nightmare-13988302.html</link>
+<pubDate>Wed, 11 Mar 2026 07:37:56 -0000</pubDate>
+<description><![CDATA[As the war intensifies in West Asia, Pakistan faces a dangerous convergence of energy shocks, border instability and diplomatic strain]]></description>
+</item>
+<item>
 <title><![CDATA[Geopolitics and Dalal Street: Five lessons for retail investors in times of war]]></title>
 <link>https://www.firstpost.com/opinion/geopolitics-and-dalal-street-five-lessons-for-retail-investors-in-times-of-war-13987780.html</link>
 <pubDate>Mon, 09 Mar 2026 15:53:58 -0000</pubDate>
 <description><![CDATA[The Israel-US-Iran war is a reminder that financial markets operate within a broader geopolitical environment. While wars create short-term volatility, they rarely change the long-term fundamentals of well-managed companies or growing economies]]></description>
-</item>
-<item>
-<title><![CDATA[How India clinched the T20 World Cup]]></title>
-<link>https://www.firstpost.com/opinion/how-india-clinched-the-t20-world-cup-13987757.html</link>
-<pubDate>Mon, 09 Mar 2026 13:59:54 -0000</pubDate>
-<description><![CDATA[India’s potent mix of aggressive batting, penetrative bowling, and shrewd captaincy propelled the Men in Blue to consecutive T20 World Cup triumphs.]]></description>
 </item>
 </channel></rss>
