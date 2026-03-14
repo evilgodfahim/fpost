@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 08:24:56 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 09:24:48 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Will US attacks on Iran’s Kharg Island push up oil prices?]]></title>
+<link>https://www.firstpost.com/explainers/us-attacks-iran-kharg-island-oil-prices-impact-13989460.html</link>
+<pubDate>Sat, 14 Mar 2026 09:24:47 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[This Week in Explainers: Why Iran war has sent Indians scrambling for LPG cylinders]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-iran-war-indians-lpg-cylinders-shortage-13989296.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Inside thriving black market in India, where gas cylinders cost as high as Rs 6,000]]></title>
-<link>https://www.firstpost.com/explainers/india-black-market-lpg-crisis-gas-cylinders-price-13989196.html</link>
-<pubDate>Fri, 13 Mar 2026 12:23:07 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[How India can act as a ‘peace architect’ in West Asia]]></title>
+<link>https://www.firstpost.com/opinion/us-israel-iran-conflict-hormuz-india-mediator-13989473.html</link>
+<pubDate>Sat, 14 Mar 2026 09:24:48 -0000</pubDate>
+<description><![CDATA[India’s foreign policy framework—built on strong, simultaneous ties with Israel, Iran, the US, and Gulf nations—positions it as a potential ‘back‑channel’ negotiator and peace architect in West Asia]]></description>
 </item>
 <item>
 <title><![CDATA[The mirage of Pax Sinica and Pax Americana: How India’s strategic autonomy paves the way for a multipolar world]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/gorsam-stupa-tawang-india-tibet-history-13989075.html</link>
 <pubDate>Fri, 13 Mar 2026 13:39:06 -0000</pubDate>
 <description><![CDATA[Gorsam Stupa stands as a powerful reminder of India’s deep historical links with Tibet and Bhutan, firmly affirming India’s sovereignty over Arunachal Pradesh]]></description>
-</item>
-<item>
-<title><![CDATA[How the Iran war could radical reset the global order]]></title>
-<link>https://www.firstpost.com/opinion/how-the-iran-war-could-radical-reset-the-global-order-13988896.html</link>
-<pubDate>Thu, 12 Mar 2026 15:50:58 -0000</pubDate>
-<description><![CDATA[The escalating confrontation between Israel, the US and Iran risks transforming a regional conflict into a crisis with profound global strategic and economic consequences]]></description>
 </item>
 </channel></rss>
