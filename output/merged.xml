@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 10:19:51 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 11:17:23 GMT</lastBuildDate>
+<item>
+<title><![CDATA[Why are Oscar statuettes are only worth $1?]]></title>
+<link>https://www.firstpost.com/explainers/why-are-oscar-statuettes-are-only-worth-1-13989355.html</link>
+<pubDate>Sat, 14 Mar 2026 11:17:23 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Will US attacks on Iran’s Kharg Island push up oil prices?]]></title>
 <link>https://www.firstpost.com/explainers/us-attacks-iran-kharg-island-oil-prices-impact-13989460.html</link>
@@ -35,16 +41,16 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[From oil shock to water shock: How the Iran war is raising India’s bottled water costs]]></title>
-<link>https://www.firstpost.com/explainers/how-iran-war-is-raising-indias-bottled-water-costs-13989245.html</link>
-<pubDate>Fri, 13 Mar 2026 12:38:07 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How India can act as a ‘peace architect’ in West Asia]]></title>
 <link>https://www.firstpost.com/opinion/us-israel-iran-conflict-hormuz-india-mediator-13989473.html</link>
 <pubDate>Sat, 14 Mar 2026 09:24:48 -0000</pubDate>
 <description><![CDATA[India’s foreign policy framework—built on strong, simultaneous ties with Israel, Iran, the US, and Gulf nations—positions it as a potential ‘back‑channel’ negotiator and peace architect in West Asia]]></description>
+</item>
+<item>
+<title><![CDATA[How French archives in Pondicherry are helping India recover stolen temple idols]]></title>
+<link>https://www.firstpost.com/opinion/french-archives-pondicherry-help-india-recover-stolen-idols-13989498.html</link>
+<pubDate>Sat, 14 Mar 2026 11:17:23 -0000</pubDate>
+<description><![CDATA[The decades-old photographic archives from two French institutes documenting South Indian temples have become critical evidence in proving the provenance of stolen idols and helping India bring its lost antiquities home]]></description>
 </item>
 <item>
 <title><![CDATA[The mirage of Pax Sinica and Pax Americana: How India’s strategic autonomy paves the way for a multipolar world]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/brics-divisions-us-israel-iran-war-13989327.html</link>
 <pubDate>Fri, 13 Mar 2026 13:54:06 -0000</pubDate>
 <description><![CDATA[The future of Brics as a leader of the Global South depends on whether it can move beyond 'symbolic alignment' to functional crisis management]]></description>
-</item>
-<item>
-<title><![CDATA[Gorsam Stupa: A reminder of India’s historic Tibet ties and sovereignty over Arunachal]]></title>
-<link>https://www.firstpost.com/opinion/gorsam-stupa-tawang-india-tibet-history-13989075.html</link>
-<pubDate>Fri, 13 Mar 2026 13:39:06 -0000</pubDate>
-<description><![CDATA[Gorsam Stupa stands as a powerful reminder of India’s deep historical links with Tibet and Bhutan, firmly affirming India’s sovereignty over Arunachal Pradesh]]></description>
 </item>
 </channel></rss>
