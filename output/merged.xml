@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 14:20:20 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 15:19:17 GMT</lastBuildDate>
 <item>
 <title><![CDATA[Inside West Asia’s escalating war: How will it end? An expert explains...]]></title>
 <link>https://www.firstpost.com/explainers/comfort-ero-iran-us-israel-war-long-conflict-analysis-13989382.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How Hormuz crisis exposes global complacency on maritime chokepoints]]></title>
+<link>https://www.firstpost.com/opinion/hormuz-crisis-global-oil-chokepoints-13989491.html</link>
+<pubDate>Sat, 14 Mar 2026 15:19:17 -0000</pubDate>
+<description><![CDATA[Energy crises often spark talk of diversification and strategic reserves, but prices eventually stabilise and supply routes resume. Markets call this risk, history calls it a habit]]></description>
+</item>
+<item>
 <title><![CDATA[How India can act as a ‘peace architect’ in West Asia]]></title>
 <link>https://www.firstpost.com/opinion/us-israel-iran-conflict-hormuz-india-mediator-13989473.html</link>
 <pubDate>Sat, 14 Mar 2026 09:24:48 -0000</pubDate>
@@ -59,21 +65,15 @@
 <description><![CDATA[India offers a values-based vision for humankind. Its strategic autonomy has served it well and positions it to rise, offering the world choices beyond the binary of Pax Americana or Pax Sinica]]></description>
 </item>
 <item>
-<title><![CDATA[Why India must rethink maritime security after Hormuz crisis]]></title>
-<link>https://www.firstpost.com/opinion/hormuz-crisis-india-global-maritime-chokepoint-vulnerability-13989167.html</link>
-<pubDate>Fri, 13 Mar 2026 12:38:08 -0000</pubDate>
-<description><![CDATA[It would be naïve to believe that even when the war in Iran ends, the crisis and contestation on maritime trade routes and chokepoints would be over – in fact, a new era of such conflict would only just be beginning]]></description>
-</item>
-<item>
-<title><![CDATA[Pramit Pal Chaudhuri: US transactionalism on India not a problem, I’m actually happy Landau made that statement]]></title>
-<link>https://www.firstpost.com/opinion/pramit-pal-chaudhuri-us-india-relations-transactional-trump-landau-interview-13989564.html</link>
-<pubDate>Sat, 14 Mar 2026 13:39:21 -0000</pubDate>
-<description><![CDATA[Corporate America has stuck with India, and even on immigration I’d argue the India story continues without too much trouble, says Pal Chaudhuri of Eurasia Group]]></description>
-</item>
-<item>
 <title><![CDATA[India’s West Asia playbook: The art of not taking sides]]></title>
 <link>https://www.firstpost.com/opinion/india-west-asia-strategic-autonomy-modi-doctrine-13989340.html</link>
 <pubDate>Fri, 13 Mar 2026 15:34:52 -0000</pubDate>
 <description><![CDATA[As the sands of West Asia continue to shift, India’s neutral hand and unblinking focus on its own national interest will remain its greatest diplomatic asset]]></description>
+</item>
+<item>
+<title><![CDATA[Brics is under strain as the Iran war exposes deep divisions]]></title>
+<link>https://www.firstpost.com/opinion/brics-divisions-us-israel-iran-war-13989327.html</link>
+<pubDate>Fri, 13 Mar 2026 13:54:06 -0000</pubDate>
+<description><![CDATA[The future of Brics as a leader of the Global South depends on whether it can move beyond 'symbolic alignment' to functional crisis management]]></description>
 </item>
 </channel></rss>
