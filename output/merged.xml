@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sat, 14 Mar 2026 06:35:39 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Mar 2026 07:30:34 GMT</lastBuildDate>
+<item>
+<title><![CDATA[This Week in Explainers: Why Iran war has sent Indians scrambling for LPG cylinders]]></title>
+<link>https://www.firstpost.com/explainers/this-week-in-explainers-iran-war-indians-lpg-cylinders-shortage-13989296.html</link>
+<pubDate>Sat, 14 Mar 2026 07:30:33 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Iran war: How a surge in oil prices could hit India’s economy]]></title>
 <link>https://www.firstpost.com/explainers/iran-war-how-a-surge-in-oil-prices-could-hit-indias-economy-13989371.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[How Russia is emerging as a winner from the Iran war]]></title>
-<link>https://www.firstpost.com/explainers/how-russia-is-emerging-as-a-winner-from-the-iran-war-13989154.html</link>
-<pubDate>Fri, 13 Mar 2026 11:24:42 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[The mirage of Pax Sinica and Pax Americana: How India’s strategic autonomy paves the way for a multipolar world]]></title>
+<link>https://www.firstpost.com/opinion/pax-sinica-pax-americana-myth-india-multipolar-world-13989085.html</link>
+<pubDate>Fri, 13 Mar 2026 09:31:28 -0000</pubDate>
+<description><![CDATA[India offers a values-based vision for humankind. Its strategic autonomy has served it well and positions it to rise, offering the world choices beyond the binary of Pax Americana or Pax Sinica]]></description>
 </item>
 <item>
 <title><![CDATA[Why India must rethink maritime security after Hormuz crisis]]></title>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/how-the-iran-war-could-radical-reset-the-global-order-13988896.html</link>
 <pubDate>Thu, 12 Mar 2026 15:50:58 -0000</pubDate>
 <description><![CDATA[The escalating confrontation between Israel, the US and Iran risks transforming a regional conflict into a crisis with profound global strategic and economic consequences]]></description>
-</item>
-<item>
-<title><![CDATA[Trump’s Iran war could accelerate the global push against dollar hegemony]]></title>
-<link>https://www.firstpost.com/opinion/trumps-iran-war-could-accelerate-the-global-push-against-dollar-hegemony-13988919.html</link>
-<pubDate>Thu, 12 Mar 2026 15:35:58 -0000</pubDate>
-<description><![CDATA[America has benefited immensely from the dollar’s hegemony, but first the Russia-Ukraine war, then the Venezuelan regime change, followed by claims over Greenland, and now the Iran war are all testing its dominance]]></description>
 </item>
 </channel></rss>
