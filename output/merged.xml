@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 01:28:55 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 04:25:42 GMT</lastBuildDate>
+<item>
+<title><![CDATA[2 weeks of Iran war: Major takeaways as peace remains out of bounds]]></title>
+<link>https://www.firstpost.com/explainers/iran-israel-us-war-2-weeks-major-takeaways-13989513.html</link>
+<pubDate>Sun, 15 Mar 2026 04:25:42 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Inside West Asia’s escalating war: How will it end? An expert explains...]]></title>
 <link>https://www.firstpost.com/explainers/comfort-ero-iran-us-israel-war-long-conflict-analysis-13989382.html</link>
@@ -35,12 +41,6 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Explained: Why Houthis, Iran’s allies in Yemen, have not joined war]]></title>
-<link>https://www.firstpost.com/explainers/explained-why-houthis-irans-allies-in-yemen-have-not-joined-war-13989282.html</link>
-<pubDate>Fri, 13 Mar 2026 17:28:03 -0000</pubDate>
-<description><![CDATA[]]></description>
-</item>
-<item>
 <title><![CDATA[How Hormuz crisis exposes global complacency on maritime chokepoints]]></title>
 <link>https://www.firstpost.com/opinion/hormuz-crisis-global-oil-chokepoints-13989491.html</link>
 <pubDate>Sat, 14 Mar 2026 15:19:17 -0000</pubDate>
@@ -65,15 +65,15 @@
 <description><![CDATA[India offers a values-based vision for humankind. Its strategic autonomy has served it well and positions it to rise, offering the world choices beyond the binary of Pax Americana or Pax Sinica]]></description>
 </item>
 <item>
+<title><![CDATA[How Israel could emerge as the only winner in the Iran war]]></title>
+<link>https://www.firstpost.com/opinion/iran-israel-us-war-strategic-paradox-13989639.html</link>
+<pubDate>Sun, 15 Mar 2026 04:25:42 -0000</pubDate>
+<description><![CDATA[Israel appears to be the only player that entered the conflict with a clear objective, and the only one that may derive any tangible gains from it]]></description>
+</item>
+<item>
 <title><![CDATA[India’s West Asia playbook: The art of not taking sides]]></title>
 <link>https://www.firstpost.com/opinion/india-west-asia-strategic-autonomy-modi-doctrine-13989340.html</link>
 <pubDate>Fri, 13 Mar 2026 15:34:52 -0000</pubDate>
 <description><![CDATA[As the sands of West Asia continue to shift, India’s neutral hand and unblinking focus on its own national interest will remain its greatest diplomatic asset]]></description>
-</item>
-<item>
-<title><![CDATA[Brics is under strain as the Iran war exposes deep divisions]]></title>
-<link>https://www.firstpost.com/opinion/brics-divisions-us-israel-iran-war-13989327.html</link>
-<pubDate>Fri, 13 Mar 2026 13:54:06 -0000</pubDate>
-<description><![CDATA[The future of Brics as a leader of the Global South depends on whether it can move beyond 'symbolic alignment' to functional crisis management]]></description>
 </item>
 </channel></rss>
