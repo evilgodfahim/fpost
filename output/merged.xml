@@ -3,7 +3,13 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 10:20:43 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 11:19:36 GMT</lastBuildDate>
+<item>
+<title><![CDATA[And the Oscar goes to… Who picks the winners?]]></title>
+<link>https://www.firstpost.com/explainers/oscars-academy-awards-winners-selection-process-13989554.html</link>
+<pubDate>Sun, 15 Mar 2026 11:19:35 -0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
 <item>
 <title><![CDATA[Word of the Week is Strait of Hormuz... The most important oil chokepoint in the world]]></title>
 <link>https://www.firstpost.com/explainers/word-of-the-week-is-strait-of-hormuz-the-most-important-oil-chokepoint-in-the-world-13989215.html</link>
@@ -35,10 +41,10 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
-<title><![CDATA[Will US attacks on Iran’s Kharg Island push up oil prices?]]></title>
-<link>https://www.firstpost.com/explainers/us-attacks-iran-kharg-island-oil-prices-impact-13989460.html</link>
-<pubDate>Sat, 14 Mar 2026 09:24:47 -0000</pubDate>
-<description><![CDATA[]]></description>
+<title><![CDATA[How Israel could be the only winner in the Iran war]]></title>
+<link>https://www.firstpost.com/opinion/iran-israel-us-war-strategic-paradox-13989639.html</link>
+<pubDate>Sun, 15 Mar 2026 11:19:36 -0000</pubDate>
+<description><![CDATA[Israel appears to be the only player that entered the conflict with a clear objective, and the only one that may derive any tangible gains from it]]></description>
 </item>
 <item>
 <title><![CDATA[How China’s cautious diplomacy in West Asia reveals a broader strategy]]></title>
@@ -47,22 +53,16 @@
 <description><![CDATA[Beijing wants to avoid being drawn into a confrontation with Washington while still demonstrating that it has an independent voice on major international crises]]></description>
 </item>
 <item>
+<title><![CDATA[How the Iran war is acquiring global dimensions]]></title>
+<link>https://www.firstpost.com/opinion/iran-war-global-power-energy-diplomacy-13989694.html</link>
+<pubDate>Sun, 15 Mar 2026 11:04:36 -0000</pubDate>
+<description><![CDATA[What began as a regional confrontation is steadily transforming into a test of the international order itself that is challenging alliances, disrupting markets and forcing major powers to reconsider their strategic assumptions]]></description>
+</item>
+<item>
 <title><![CDATA[Pramit Pal Chaudhuri: US transactionalism on India not a problem, I’m actually happy Landau made that statement]]></title>
 <link>https://www.firstpost.com/opinion/pramit-pal-chaudhuri-us-india-relations-transactional-trump-landau-interview-13989564.html</link>
 <pubDate>Sat, 14 Mar 2026 13:39:21 -0000</pubDate>
 <description><![CDATA[Corporate America has stuck with India, and even on immigration I’d argue the India story continues without too much trouble, says Pal Chaudhuri of Eurasia Group]]></description>
-</item>
-<item>
-<title><![CDATA[How Hormuz crisis exposes global complacency on maritime chokepoints]]></title>
-<link>https://www.firstpost.com/opinion/hormuz-crisis-global-oil-chokepoints-13989491.html</link>
-<pubDate>Sat, 14 Mar 2026 15:19:17 -0000</pubDate>
-<description><![CDATA[Energy crises often spark talk of diversification and strategic reserves, but prices eventually stabilise and supply routes resume. Markets call this risk, history calls it a habit]]></description>
-</item>
-<item>
-<title><![CDATA[How India can act as a ‘peace architect’ in West Asia]]></title>
-<link>https://www.firstpost.com/opinion/us-israel-iran-conflict-hormuz-india-mediator-13989473.html</link>
-<pubDate>Sat, 14 Mar 2026 09:24:48 -0000</pubDate>
-<description><![CDATA[India’s foreign policy framework—built on strong, simultaneous ties with Israel, Iran, the US, and Gulf nations—positions it as a potential ‘back‑channel’ negotiator and peace architect in West Asia]]></description>
 </item>
 <item>
 <title><![CDATA[How French archives in Pondicherry are helping India recover stolen temple idols]]></title>
@@ -71,9 +71,9 @@
 <description><![CDATA[The decades-old photographic archives from two French institutes documenting South Indian temples have become critical evidence in proving the provenance of stolen idols and helping India bring its lost antiquities home]]></description>
 </item>
 <item>
-<title><![CDATA[India’s West Asia playbook: The art of not taking sides]]></title>
-<link>https://www.firstpost.com/opinion/india-west-asia-strategic-autonomy-modi-doctrine-13989340.html</link>
-<pubDate>Fri, 13 Mar 2026 15:34:52 -0000</pubDate>
-<description><![CDATA[As the sands of West Asia continue to shift, India’s neutral hand and unblinking focus on its own national interest will remain its greatest diplomatic asset]]></description>
+<title><![CDATA[How Hormuz crisis exposes global complacency on maritime chokepoints]]></title>
+<link>https://www.firstpost.com/opinion/hormuz-crisis-global-oil-chokepoints-13989491.html</link>
+<pubDate>Sat, 14 Mar 2026 15:19:17 -0000</pubDate>
+<description><![CDATA[Energy crises often spark talk of diversification and strategic reserves, but prices eventually stabilise and supply routes resume. Markets call this risk, history calls it a habit]]></description>
 </item>
 </channel></rss>
