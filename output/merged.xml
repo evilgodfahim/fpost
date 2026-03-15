@@ -3,7 +3,7 @@
 <title>Combined Politepol Feed</title>
 <link>https://yourgithubusername.github.io/rss-merge/output/merged.xml</link>
 <description>Merged feed from multiple Politepol sources</description>
-<lastBuildDate>Sun, 15 Mar 2026 06:00:52 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Mar 2026 07:38:54 GMT</lastBuildDate>
 <item>
 <title><![CDATA[This Week in Explainers: How the West Asia war has led to the largest oil supply disruptions in history]]></title>
 <link>https://www.firstpost.com/explainers/this-week-in-explainers-how-the-west-asia-war-has-led-to-the-largest-oil-supply-disruptions-in-history-13989212.html</link>
@@ -41,6 +41,12 @@
 <description><![CDATA[]]></description>
 </item>
 <item>
+<title><![CDATA[How China’s cautious diplomacy in West Asia reveals a broader strategy]]></title>
+<link>https://www.firstpost.com/opinion/china-west-asia-crisis-strategic-balancing-13989648.html</link>
+<pubDate>Sun, 15 Mar 2026 07:38:54 -0000</pubDate>
+<description><![CDATA[Beijing wants to avoid being drawn into a confrontation with Washington while still demonstrating that it has an independent voice on major international crises]]></description>
+</item>
+<item>
 <title><![CDATA[Pramit Pal Chaudhuri: US transactionalism on India not a problem, I’m actually happy Landau made that statement]]></title>
 <link>https://www.firstpost.com/opinion/pramit-pal-chaudhuri-us-india-relations-transactional-trump-landau-interview-13989564.html</link>
 <pubDate>Sat, 14 Mar 2026 13:39:21 -0000</pubDate>
@@ -69,11 +75,5 @@
 <link>https://www.firstpost.com/opinion/india-west-asia-strategic-autonomy-modi-doctrine-13989340.html</link>
 <pubDate>Fri, 13 Mar 2026 15:34:52 -0000</pubDate>
 <description><![CDATA[As the sands of West Asia continue to shift, India’s neutral hand and unblinking focus on its own national interest will remain its greatest diplomatic asset]]></description>
-</item>
-<item>
-<title><![CDATA[Brics is under strain as the Iran war exposes deep divisions]]></title>
-<link>https://www.firstpost.com/opinion/brics-divisions-us-israel-iran-war-13989327.html</link>
-<pubDate>Fri, 13 Mar 2026 13:54:06 -0000</pubDate>
-<description><![CDATA[The future of Brics as a leader of the Global South depends on whether it can move beyond 'symbolic alignment' to functional crisis management]]></description>
 </item>
 </channel></rss>
